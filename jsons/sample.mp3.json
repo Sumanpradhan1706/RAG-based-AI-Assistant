@@ -1,0 +1,19 @@
+{
+  "chunks": [
+    {
+      "number": "8.mp4",
+      "title": "sample",
+      "start": 0.0,
+      "end": 4.88,
+      "text": " After watching this video, you will learn to use modern C compiler and tools."
+    },
+    {
+      "number": "8.mp4",
+      "title": "sample",
+      "start": 7.76,
+      "end": 10.0,
+      "text": " Guys, increase your excitement level."
+    }
+  ],
+  "text": " After watching this video, you will learn to use modern C compiler and tools. Guys, increase your excitement level."
+}

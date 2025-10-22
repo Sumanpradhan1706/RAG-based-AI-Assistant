@@ -1,0 +1,3351 @@
+{
+  "chunks": [
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 0.0,
+      "end": 4.8,
+      "text": " After watching this video, you will learn to use modern C compiler and tools"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 7.8,
+      "end": 12.8,
+      "text": " Guys, increase your excitement level because in this video, we will write our first program"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 12.8,
+      "end": 16.8,
+      "text": " Yes, you heard it right, our first program we are going to write in this video"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 16.8,
+      "end": 20.3,
+      "text": " And I will show you by running it and you will run it yourself"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 20.3,
+      "end": 26.1,
+      "text": " Guys, whenever you go to any field, especially in the field of war, the weapons are very important"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 26.1,
+      "end": 32.1,
+      "text": " And the same is true for programming, if you do programming and your tools, your weapons"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 32.1,
+      "end": 38.1,
+      "text": " If you are not using them correctly, then your programming will not be as efficient as you can"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 38.1,
+      "end": 43.1,
+      "text": " That is, you will lose the opportunity to save your time and programs"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 43.1,
+      "end": 47.1,
+      "text": " That is why I will introduce you to modern compiler and tools"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 47.1,
+      "end": 52.1,
+      "text": " Not only during the course, as the course progresses and as things will continue to come"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 52.1,
+      "end": 56.1,
+      "text": " I will tell you what things you should use in the modern era"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 56.1,
+      "end": 61.1,
+      "text": " Like I give you an example, Turbo C and Turbo C++ are discontinued today"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 61.1,
+      "end": 68.1,
+      "text": " These two IDE were used in the old times, but whatever it is today's modern language, we do not use these ideas"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 68.1,
+      "end": 73.1,
+      "text": " Why? Because we will use better alternatives in today's date"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 73.1,
+      "end": 77.1,
+      "text": " Guys, here I want to clear the difference between IDE and compiler"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 77.1,
+      "end": 81.1,
+      "text": " Guys, we will use IDE and compiler here"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 81.1,
+      "end": 86.1,
+      "text": " Now you will think about the IDE and compiler, I will explain the difference between both"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 86.1,
+      "end": 94.1,
+      "text": " IDE is an integrated development environment which is a better alternative of notepad and text editor"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 94.1,
+      "end": 101.1,
+      "text": " Why is it a better alternative? Because it has better alternatives because you can check syntax highlighting or syntax checking"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 101.1,
+      "end": 107.1,
+      "text": " Suppose you put a bracket less, then it will shine with red color and you will know that I have put a bracket less"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 107.1,
+      "end": 110.1,
+      "text": " And now I should correct my program by putting a bracket"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 110.1,
+      "end": 116.1,
+      "text": " Along with that, it keeps warning you that this line is wrong on the small side"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 116.1,
+      "end": 123.1,
+      "text": " And it gives you a good environment like where you can run a compiler, you do not need to open a terminal separately"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 123.1,
+      "end": 129.1,
+      "text": " We will use the IDE called Visual Studio Code here, now you will think why Visual Studio Code?"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 129.1,
+      "end": 134.1,
+      "text": " Because it is free from Microsoft, it is open source, we will use it because"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 134.1,
+      "end": 141.1,
+      "text": " There is a daily community on a daily basis, people keep talking on GitHub, people keep improving about issues"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 141.1,
+      "end": 147.1,
+      "text": " And this is a very good IDE and many people have accepted it"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 147.1,
+      "end": 151.1,
+      "text": " Now I will come back to the difference between IDE and C compiler, the IDE is for you"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 151.1,
+      "end": 158.1,
+      "text": " It helps you to write a good program and it helps you to see it well"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 158.1,
+      "end": 160.1,
+      "text": " But the compiler has a different task"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 160.1,
+      "end": 168.1,
+      "text": " The compiler will convert the text in the CPU instructions, that is executable"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 168.1,
+      "end": 174.1,
+      "text": " If you install only IDE, you do not install a compiler, then you have installed a tool that will write code well"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 174.1,
+      "end": 181.1,
+      "text": " You have not installed any HHs that will compile your program and help you to convert it in machine instructions"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 181.1,
+      "end": 189.1,
+      "text": " We will use Visual Studio Code as IDE and we will tell Visual Studio Code which compiler we want to use"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 189.1,
+      "end": 197.1,
+      "text": " So guys if you are in Mac or Linux based operating system, I will tell you that your compiler is already installed"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 197.1,
+      "end": 202.1,
+      "text": " So you have to use similar steps to install Visual Studio Code"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 202.1,
+      "end": 206.1,
+      "text": " I will tell you for Windows because majority of the people use Windows"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 206.1,
+      "end": 212.1,
+      "text": " We will have to install a compiler in Windows, so I will show you how we will install a compiler"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 212.1,
+      "end": 218.1,
+      "text": " So let's go to Google Chrome and see how we will install this compiler"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 218.1,
+      "end": 228.1,
+      "text": " Before we start the installation, I want to tell you that if you are not able to understand technicality"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 228.1,
+      "end": 243.1,
+      "text": " So don't worry because we will write basic C programs and after that you can come back and learn how CPU instructions work"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 243.1,
+      "end": 247.1,
+      "text": " You can make C program efficient and all these things will come later"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 247.1,
+      "end": 251.1,
+      "text": " First of all we have to start basic C program"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 251.1,
+      "end": 261.1,
+      "text": " So your target should be that your compiler, IDE, etc. should be set as I told you"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 261.1,
+      "end": 267.1,
+      "text": " And the program we are going to run in this video, that is the first program you can make"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 267.1,
+      "end": 272.1,
+      "text": " With that said, I will start IDE and compiler installation"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 272.1,
+      "end": 277.1,
+      "text": " Listen carefully to what I am telling you and do as I am doing"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 277.1,
+      "end": 281.1,
+      "text": " So guys I have come to my computer and now I will open the Google Chrome browser"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 281.1,
+      "end": 285.1,
+      "text": " As you can see my browser is open, I will type in Google search"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 285.1,
+      "end": 288.1,
+      "text": " Download Visual Studio Code"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 288.1,
+      "end": 292.1,
+      "text": " And as I will write this, you can see the first result which I can see from Microsoft"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 292.1,
+      "end": 298.1,
+      "text": " I will click on it and as soon as I go in it, as you can see I am getting download options"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 298.1,
+      "end": 302.1,
+      "text": " In download options, I will install Visual Studio Code"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 302.1,
+      "end": 309.1,
+      "text": " Guys, let's wait for a while and if you haven't liked this video yet, then please give a thumbs up to this video"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 309.1,
+      "end": 314.1,
+      "text": " So our Visual Studio Code is downloaded, as you can see I will simply open it"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 314.1,
+      "end": 319.1,
+      "text": " You can click here and open it or just download it in the folder and double click there"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 319.1,
+      "end": 323.1,
+      "text": " Here I will click on Next and I will accept the agreement"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 323.1,
+      "end": 327.1,
+      "text": " I will read the whole agreement, I have read it all, now I will click on Next"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 327.1,
+      "end": 332.1,
+      "text": " And as soon as I see the default location, I will do the next and install it"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 332.1,
+      "end": 337.1,
+      "text": " Now here it says Don't create a start menu folder, I will not do anything"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 337.1,
+      "end": 344.1,
+      "text": " Simply I will click on Next and here it says add open with code action to windows explorer"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 344.1,
+      "end": 350.1,
+      "text": " So I will not do anything, I will simply click on Next and install it"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 350.1,
+      "end": 355.1,
+      "text": " So whatever defaults I have put on it, simply by clicking Next, Next, Next"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 355.1,
+      "end": 359.1,
+      "text": " I have simply installed it on my Visual Studio Code"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 359.1,
+      "end": 363.1,
+      "text": " This is my Visual Studio Code installed on my computer, as you can see"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 363.1,
+      "end": 366.1,
+      "text": " As soon as I am telling you the steps, follow it"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 366.1,
+      "end": 370.1,
+      "text": " And in the launch Visual Studio Code, it is ticked here"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 370.1,
+      "end": 372.1,
+      "text": " I will just leave it like this and click on Finish"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 372.1,
+      "end": 376.1,
+      "text": " As soon as I click on Finish, you can see that my Visual Studio Code is open"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 376.1,
+      "end": 380.1,
+      "text": " I hope that everyone's Visual Studio Code must have been well-run"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 380.1,
+      "end": 383.1,
+      "text": " And you must have reached here at least"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 383.1,
+      "end": 387.1,
+      "text": " Now we have to create a new folder and write our C files"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 387.1,
+      "end": 391.1,
+      "text": " But we have not installed the compiler yet"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 391.1,
+      "end": 396.1,
+      "text": " Like I told you, the integrated development environment of IDE is our code"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 396.1,
+      "end": 398.1,
+      "text": " The code is useful to write"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 398.1,
+      "end": 405.1,
+      "text": " The compiler is useful to make machine instructions in the code"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 405.1,
+      "end": 409.1,
+      "text": " That is, .exe file which is useful to make in windows"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 409.1,
+      "end": 412.1,
+      "text": " So whatever code we write, it will be a .exe file"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 412.1,
+      "end": 414.1,
+      "text": " That will be our software"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 414.1,
+      "end": 420.1,
+      "text": " To make that software from our .exe file, we need a utility"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 420.1,
+      "end": 422.1,
+      "text": " And we call that utility compiler"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 422.1,
+      "end": 425.1,
+      "text": " So let's go back to our Google Chrome and download the compiler"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 425.1,
+      "end": 431.1,
+      "text": " If you write C programming in VS Code and enter"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 431.1,
+      "end": 435.1,
+      "text": " Then the page of code.visualstudio.com will be opened"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 435.1,
+      "end": 437.1,
+      "text": " That is, the website of Visual Studio will be opened"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 437.1,
+      "end": 440.1,
+      "text": " Now the programming of C and C++ is very similar"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 440.1,
+      "end": 442.1,
+      "text": " That is why they have clubbed it"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 442.1,
+      "end": 444.1,
+      "text": " I would like to take you down"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 444.1,
+      "end": 447.1,
+      "text": " Here C++ is written, you can click here"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 447.1,
+      "end": 449.1,
+      "text": " And you can click on MinGW on Windows"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 449.1,
+      "end": 452.1,
+      "text": " Now here this link can be seen in the future"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 452.1,
+      "end": 454.1,
+      "text": " If you see it, then this link is not there"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 454.1,
+      "end": 461.1,
+      "text": " That is why I will put the link of MinGW, W64 compiler in the description"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 461.1,
+      "end": 464.1,
+      "text": " And as soon as I click on it, it is opened"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 464.1,
+      "end": 466.1,
+      "text": " You can come here on this page"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 466.1,
+      "end": 469.1,
+      "text": " And as soon as I click on it, it is called Installation Source Forge"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 469.1,
+      "end": 470.1,
+      "text": " I will click on it"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 470.1,
+      "end": 472.1,
+      "text": " Now why I came through this link"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 472.1,
+      "end": 475.1,
+      "text": " Because this Microsoft has officially given"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 475.1,
+      "end": 477.1,
+      "text": " I trust Microsoft"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 477.1,
+      "end": 479.1,
+      "text": " I clicked on MinGW and Windows"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 479.1,
+      "end": 482.1,
+      "text": " Now my compiler is going to download"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 482.1,
+      "end": 485.1,
+      "text": " So look here, my compiler is downloading"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 485.1,
+      "end": 487.1,
+      "text": " And I let it download"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 487.1,
+      "end": 489.1,
+      "text": " Till then I will tell you"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 489.1,
+      "end": 491.1,
+      "text": " That the compilers are very different"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 491.1,
+      "end": 493.1,
+      "text": " It is not necessary that you use MinGW"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 493.1,
+      "end": 495.1,
+      "text": " C compilers are different"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 495.1,
+      "end": 497.1,
+      "text": " But for programming here"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 497.1,
+      "end": 501.1,
+      "text": " This MinGW is perfect for us"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 501.1,
+      "end": 504.1,
+      "text": " Even if you make an application of production level"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 504.1,
+      "end": 507.1,
+      "text": " Then you can use MinGW compiler"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 507.1,
+      "end": 509.1,
+      "text": " MinGW compiler is a safe option"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 509.1,
+      "end": 512.1,
+      "text": " That is why Microsoft has given it a link on their website"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 512.1,
+      "end": 514.1,
+      "text": " Now the download is on MinGW"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 514.1,
+      "end": 516.1,
+      "text": " You click on it and open it"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 516.1,
+      "end": 518.1,
+      "text": " And you run it"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 518.1,
+      "end": 520.1,
+      "text": " Simply click on Next"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 520.1,
+      "end": 522.1,
+      "text": " And it is called Getting Repository Description"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 522.1,
+      "end": 524.1,
+      "text": " You don't have to eat anything, just click on Next"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 524.1,
+      "end": 526.1,
+      "text": " And just like we did before"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 526.1,
+      "end": 528.1,
+      "text": " I will click on Next"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 528.1,
+      "end": 530.1,
+      "text": " And as soon as I click on Next"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 530.1,
+      "end": 532.1,
+      "text": " Look, it has started installing"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 532.1,
+      "end": 534.1,
+      "text": " MinGW in my computer"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 534.1,
+      "end": 536.1,
+      "text": " So I will tell you again to remind you"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 536.1,
+      "end": 538.1,
+      "text": " Neither we have changed the default option"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 538.1,
+      "end": 540.1,
+      "text": " For Visual Studio Code"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 540.1,
+      "end": 542.1,
+      "text": " Nor we have changed MinGW"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 542.1,
+      "end": 544.1,
+      "text": " Simply click on Next"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 544.1,
+      "end": 546.1,
+      "text": " And where you have to accept the license"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 546.1,
+      "end": 548.1,
+      "text": " We have accepted the license there"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 548.1,
+      "end": 550.1,
+      "text": " So as you can see, my installation is complete"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 550.1,
+      "end": 552.1,
+      "text": " So I will click on Next"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 552.1,
+      "end": 554.1,
+      "text": " And I will click on Next to continue the installation"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 554.1,
+      "end": 556.1,
+      "text": " And I will click on Finish after I have done it"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 556.1,
+      "end": 558.1,
+      "text": " Now what I am going to tell you"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 558.1,
+      "end": 560.1,
+      "text": " You have to do it very carefully"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 560.1,
+      "end": 562.1,
+      "text": " So listen to me carefully"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 562.1,
+      "end": 564.1,
+      "text": " You go to your My Computer"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 564.1,
+      "end": 566.1,
+      "text": " And go to Program Files"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 566.1,
+      "end": 568.1,
+      "text": " Where you will get a folder called MinGWW64"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 568.1,
+      "end": 570.1,
+      "text": " That folder is very important"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 570.1,
+      "end": 572.1,
+      "text": " The compiler that we have installed"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 572.1,
+      "end": 574.1,
+      "text": " That is installed"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 574.1,
+      "end": 576.1,
+      "text": " Now we have to open this folder"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 576.1,
+      "end": 578.1,
+      "text": " And here we have to open this folder"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 578.1,
+      "end": 580.1,
+      "text": " Then we have to double click on MinGW32"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 580.1,
+      "end": 582.1,
+      "text": " And then double click on Bin"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 582.1,
+      "end": 584.1,
+      "text": " I will bring you back to Program Files"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 584.1,
+      "end": 586.1,
+      "text": " Then MinGWW64"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 586.1,
+      "end": 588.1,
+      "text": " Then here there will be a folder"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 588.1,
+      "end": 590.1,
+      "text": " Just open it and then MinGW32"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 590.1,
+      "end": 592.1,
+      "text": " And then you have to come in Bin"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 592.1,
+      "end": 594.1,
+      "text": " After doing this"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 594.1,
+      "end": 596.1,
+      "text": " You have to copy this path"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 596.1,
+      "end": 598.1,
+      "text": " If you click on it, then you have to copy this path"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 598.1,
+      "end": 600.1,
+      "text": " By pressing Ctrl C"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 600.1,
+      "end": 602.1,
+      "text": " And then you will write it on your desktop"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 602.1,
+      "end": 604.1,
+      "text": " On My PC"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 604.1,
+      "end": 606.1,
+      "text": " And you will go to Properties"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 606.1,
+      "end": 608.1,
+      "text": " Listen to me carefully"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 608.1,
+      "end": 610.1,
+      "text": " After going to Properties"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 610.1,
+      "end": 612.1,
+      "text": " You will go to Advanced System Settings"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 612.1,
+      "end": 614.1,
+      "text": " And then you will go to Environment Variables"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 614.1,
+      "end": 616.1,
+      "text": " I will tell you again"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 616.1,
+      "end": 618.1,
+      "text": " I have done it rightly on this PC"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 618.1,
+      "end": 620.1,
+      "text": " I have clicked on Advanced System Settings"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 620.1,
+      "end": 622.1,
+      "text": " Then you will have to select Path"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 622.1,
+      "end": 624.1,
+      "text": " And then click on Edit"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 624.1,
+      "end": 626.1,
+      "text": " Path Edit"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 626.1,
+      "end": 628.1,
+      "text": " I clicked on it"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 628.1,
+      "end": 630.1,
+      "text": " Then you click on New"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 630.1,
+      "end": 632.1,
+      "text": " After clicking on New"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 632.1,
+      "end": 634.1,
+      "text": " You will get a typing prompt"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 634.1,
+      "end": 636.1,
+      "text": " You paste it on it"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 636.1,
+      "end": 638.1,
+      "text": " You copy it and enter it"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 638.1,
+      "end": 640.1,
+      "text": " Then you click on OK"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 640.1,
+      "end": 642.1,
+      "text": " Then click on OK"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 642.1,
+      "end": 644.1,
+      "text": " Then click on OK again"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 644.1,
+      "end": 646.1,
+      "text": " And close everything"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 646.1,
+      "end": 648.1,
+      "text": " What have we done?"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 648.1,
+      "end": 650.1,
+      "text": " We have added this folder in Path"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 650.1,
+      "end": 652.1,
+      "text": " That means"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 652.1,
+      "end": 654.1,
+      "text": " Whenever I want GCC.exe"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 654.1,
+      "end": 656.1,
+      "text": " Which is the compiler of C"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 656.1,
+      "end": 658.1,
+      "text": " GCC.exe"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 658.1,
+      "end": 660.1,
+      "text": " I will just write GCC"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 660.1,
+      "end": 662.1,
+      "text": " From my terminal"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 662.1,
+      "end": 664.1,
+      "text": " And this full path will automatically take it from there"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 664.1,
+      "end": 666.1,
+      "text": " I will tell you again"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 666.1,
+      "end": 668.1,
+      "text": " Whatever we add in Path"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 668.1,
+      "end": 670.1,
+      "text": " Whatever folder we add in Path Variable"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 670.1,
+      "end": 672.1,
+      "text": " Whatever the folder contains"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 672.1,
+      "end": 674.1,
+      "text": " We can directly access them"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 674.1,
+      "end": 676.1,
+      "text": " in the name"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 676.1,
+      "end": 678.1,
+      "text": " If I write GCC"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 678.1,
+      "end": 680.1,
+      "text": " I will directly invoke it"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 680.1,
+      "end": 682.1,
+      "text": " Otherwise I have to give full path"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 682.1,
+      "end": 684.1,
+      "text": " You are not understanding all this"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 684.1,
+      "end": 686.1,
+      "text": " That's totally fine"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 686.1,
+      "end": 688.1,
+      "text": " If you are a beginner"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 688.1,
+      "end": 690.1,
+      "text": " I will not force you to understand all this"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 690.1,
+      "end": 692.1,
+      "text": " Just do as I have told you"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 692.1,
+      "end": 694.1,
+      "text": " And in the coming time"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 694.1,
+      "end": 696.1,
+      "text": " As you will write good C programs"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 696.1,
+      "end": 698.1,
+      "text": " And your understanding will increase"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 698.1,
+      "end": 700.1,
+      "text": " Then you can understand it in revision time"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 700.1,
+      "end": 702.1,
+      "text": " But if you have understood it so much"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 702.1,
+      "end": 704.1,
+      "text": " That now we can use GCC"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 704.1,
+      "end": 706.1,
+      "text": " Anywhere we can use it from terminal"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 706.1,
+      "end": 708.1,
+      "text": " That should be enough"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 708.1,
+      "end": 710.1,
+      "text": " At this point I will suggest you"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 710.1,
+      "end": 712.1,
+      "text": " To restart your computer"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 712.1,
+      "end": 714.1,
+      "text": " Because we have just installed"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 714.1,
+      "end": 716.1,
+      "text": " Visual Studio Code"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 716.1,
+      "end": 718.1,
+      "text": " We have installed C compiler"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 718.1,
+      "end": 720.1,
+      "text": " So if you restart it"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 720.1,
+      "end": 722.1,
+      "text": " It will be better"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 722.1,
+      "end": 724.1,
+      "text": " So I have restarted my computer"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 724.1,
+      "end": 726.1,
+      "text": " And I will open my Visual Studio Code"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 726.1,
+      "end": 728.1,
+      "text": " I will click on File"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 728.1,
+      "end": 730.1,
+      "text": " I will click on Open Folder"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 730.1,
+      "end": 732.1,
+      "text": " And you can click on Open Folder"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 732.1,
+      "end": 734.1,
+      "text": " You can make a folder anywhere"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 734.1,
+      "end": 736.1,
+      "text": " And we will make our project of C"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 736.1,
+      "end": 738.1,
+      "text": " I will make a new folder"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 738.1,
+      "end": 740.1,
+      "text": " I will write C tutorials"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 740.1,
+      "end": 742.1,
+      "text": " And here I will write course"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 742.1,
+      "end": 744.1,
+      "text": " And I will enter"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 744.1,
+      "end": 746.1,
+      "text": " This folder is my selected folder"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 746.1,
+      "end": 748.1,
+      "text": " And my folder is selected"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 748.1,
+      "end": 750.1,
+      "text": " In Visual Studio Code"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 750.1,
+      "end": 752.1,
+      "text": " Now I will give you a quick introduction"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 752.1,
+      "end": 754.1,
+      "text": " I will not tell you much details"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 754.1,
+      "end": 756.1,
+      "text": " I will give you a quick introduction"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 756.1,
+      "end": 758.1,
+      "text": " C tutorials course is written here"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 758.1,
+      "end": 760.1,
+      "text": " This folder is opened in Visual Studio Code"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 760.1,
+      "end": 762.1,
+      "text": " And this is the new file"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 762.1,
+      "end": 764.1,
+      "text": " This is the new directory"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 764.1,
+      "end": 766.1,
+      "text": " If I click on main.c"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 766.1,
+      "end": 768.1,
+      "text": " Then what will happen here"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 768.1,
+      "end": 770.1,
+      "text": " I have made a .c file"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 770.1,
+      "end": 772.1,
+      "text": " And if I click on this"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 772.1,
+      "end": 774.1,
+      "text": " My directory"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 774.1,
+      "end": 776.1,
+      "text": " Then it will become a folder"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 776.1,
+      "end": 778.1,
+      "text": " And the folder named .vscode"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 778.1,
+      "end": 780.1,
+      "text": " Is already made here"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 780.1,
+      "end": 782.1,
+      "text": " At this point I will suggest you"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 782.1,
+      "end": 784.1,
+      "text": " Click here"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 784.1,
+      "end": 786.1,
+      "text": " These icons are visible"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 786.1,
+      "end": 788.1,
+      "text": " The first one is Explorer"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 788.1,
+      "end": 790.1,
+      "text": " And the second one is Minidbugger"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 790.1,
+      "end": 792.1,
+      "text": " Visual Studio Code"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 792.1,
+      "end": 794.1,
+      "text": " And then extensions"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 794.1,
+      "end": 796.1,
+      "text": " Extensions of Visual Studio Code"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 796.1,
+      "end": 798.1,
+      "text": " Are used to increase the capabilities"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 798.1,
+      "end": 800.1,
+      "text": " So if I click on extension"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 800.1,
+      "end": 802.1,
+      "text": " I will suggest you to search"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 802.1,
+      "end": 804.1,
+      "text": " CC++ IntelliSense"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 804.1,
+      "end": 806.1,
+      "text": " And you will get an extension from Microsoft"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 806.1,
+      "end": 808.1,
+      "text": " Click on Install"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 808.1,
+      "end": 810.1,
+      "text": " And after clicking on Install"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 810.1,
+      "end": 812.1,
+      "text": " It will be installed"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 812.1,
+      "end": 814.1,
+      "text": " After that you can come here"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 814.1,
+      "end": 816.1,
+      "text": " In C file"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 816.1,
+      "end": 818.1,
+      "text": " And this IntelliSense"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 818.1,
+      "end": 820.1,
+      "text": " Which is our"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 820.1,
+      "end": 822.1,
+      "text": " It helps us in giving suggestions"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 822.1,
+      "end": 824.1,
+      "text": " To improve our code"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 824.1,
+      "end": 826.1,
+      "text": " If I write here"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 826.1,
+      "end": 828.1,
+      "text": " And enter"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 828.1,
+      "end": 830.1,
+      "text": " Now what does this code do"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 830.1,
+      "end": 832.1,
+      "text": " Don't take any tension"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 832.1,
+      "end": 834.1,
+      "text": " I will do it again by doing control z"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 834.1,
+      "end": 836.1,
+      "text": " I just wanted to tell you what it does"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 836.1,
+      "end": 838.1,
+      "text": " We have made our first program"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 838.1,
+      "end": 840.1,
+      "text": " Before that I want to tell you"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 840.1,
+      "end": 842.1,
+      "text": " About Visual Studio Code"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 842.1,
+      "end": 844.1,
+      "text": " Along with this you will see"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 844.1,
+      "end": 846.1,
+      "text": " Some options will appear in front of you"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 846.1,
+      "end": 848.1,
+      "text": " Like"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 848.1,
+      "end": 850.1,
+      "text": " Command Palette, settings"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 850.1,
+      "end": 852.1,
+      "text": " Extensions, keyboard shortcuts"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 852.1,
+      "end": 854.1,
+      "text": " I will click on keyboard shortcuts"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 854.1,
+      "end": 856.1,
+      "text": " And after clicking on keyboard shortcuts"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 856.1,
+      "end": 858.1,
+      "text": " I will configure some shortcuts"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 858.1,
+      "end": 860.1,
+      "text": " For example, format document"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 860.1,
+      "end": 862.1,
+      "text": " I want to keep it short"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 862.1,
+      "end": 864.1,
+      "text": " Control, Shift and H"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 864.1,
+      "end": 866.1,
+      "text": " I have kept control, shift and H"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 866.1,
+      "end": 868.1,
+      "text": " And I have configured it"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 868.1,
+      "end": 870.1,
+      "text": " By pressing the Enter"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 870.1,
+      "end": 872.1,
+      "text": " Control, Shift and H"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 872.1,
+      "end": 874.1,
+      "text": " All these things will be visual studio code"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 874.1,
+      "end": 876.1,
+      "text": " It will be a topic for itself"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 876.1,
+      "end": 878.1,
+      "text": " So I won't go into it much"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 878.1,
+      "end": 880.1,
+      "text": " And I will keep the default things as much as possible"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 880.1,
+      "end": 882.1,
+      "text": " After that I will click here"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 882.1,
+      "end": 884.1,
+      "text": " And here I will click on settings"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 884.1,
+      "end": 886.1,
+      "text": " After that I will search for mouse wheel"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 886.1,
+      "end": 888.1,
+      "text": " And here it is written"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 888.1,
+      "end": 890.1,
+      "text": " Editor mouse wheel zoom"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 890.1,
+      "end": 892.1,
+      "text": " I will check it"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 892.1,
+      "end": 894.1,
+      "text": " You are ensuring that this is a check"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 894.1,
+      "end": 896.1,
+      "text": " What will happen is that you will click control and scroll"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 896.1,
+      "end": 898.1,
+      "text": " You can make your text smaller"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 898.1,
+      "end": 900.1,
+      "text": " You can write anything in any file"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 900.1,
+      "end": 902.1,
+      "text": " You can press the controller mouse wheel"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 902.1,
+      "end": 904.1,
+      "text": " You can scroll mouse wheel and make it smaller"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 904.1,
+      "end": 906.1,
+      "text": " It is very useful"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 906.1,
+      "end": 908.1,
+      "text": " Now I will tell you to write the main"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 908.1,
+      "end": 910.1,
+      "text": " And as soon as you write the main"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 910.1,
+      "end": 912.1,
+      "text": " Look at this, there is something coming here"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 912.1,
+      "end": 914.1,
+      "text": " And it is written as code snippet for main"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 914.1,
+      "end": 916.1,
+      "text": " You can click on it"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 916.1,
+      "end": 918.1,
+      "text": " And you have already given some code to visual studio code name"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 918.1,
+      "end": 920.1,
+      "text": " This is the benefit of using an IDE"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 920.1,
+      "end": 922.1,
+      "text": " So guys, as I told you"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 922.1,
+      "end": 924.1,
+      "text": " The difference between IDE and compiler"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 924.1,
+      "end": 926.1,
+      "text": " That IDE is"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 926.1,
+      "end": 928.1,
+      "text": " The source code that you see"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 928.1,
+      "end": 930.1,
+      "text": " And it helps you to write fast"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 930.1,
+      "end": 932.1,
+      "text": " In a good way"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 932.1,
+      "end": 934.1,
+      "text": " We will see how this works"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 934.1,
+      "end": 936.1,
+      "text": " For now you just understand"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 936.1,
+      "end": 938.1,
+      "text": " That it is better to write code in notepad"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 938.1,
+      "end": 940.1,
+      "text": " We will write code here"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 940.1,
+      "end": 942.1,
+      "text": " And why is it good? We will see it in time"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 942.1,
+      "end": 944.1,
+      "text": " I will tell you one or two things"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 944.1,
+      "end": 946.1,
+      "text": " For example, if you have a variable name"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 946.1,
+      "end": 948.1,
+      "text": " Camel is a good boy"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 948.1,
+      "end": 950.1,
+      "text": " This is a variable name"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 950.1,
+      "end": 952.1,
+      "text": " And it is written in camel case"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 952.1,
+      "end": 954.1,
+      "text": " If you write C, it will suggest you"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 954.1,
+      "end": 956.1,
+      "text": " Camel is a good boy"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 956.1,
+      "end": 958.1,
+      "text": " You can take the whole variable"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 958.1,
+      "end": 960.1,
+      "text": " And you have to type in notepad"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 960.1,
+      "end": 962.1,
+      "text": " So here you have advantage"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 962.1,
+      "end": 964.1,
+      "text": " And if you don't understand this"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 964.1,
+      "end": 966.1,
+      "text": " So I will tell you, stay with this course"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 966.1,
+      "end": 968.1,
+      "text": " We will see how this"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 968.1,
+      "end": 970.1,
+      "text": " Ide for us, visual studio code"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 970.1,
+      "end": 972.1,
+      "text": " And visual studio code is a very good idea"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 972.1,
+      "end": 974.1,
+      "text": " That's why I have installed you"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 974.1,
+      "end": 976.1,
+      "text": " After this, you write"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 976.1,
+      "end": 978.1,
+      "text": " Print F"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 978.1,
+      "end": 980.1,
+      "text": " And write here"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 980.1,
+      "end": 982.1,
+      "text": " Hello Word"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 982.1,
+      "end": 984.1,
+      "text": " This is our first program"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 984.1,
+      "end": 986.1,
+      "text": " Put the column"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 986.1,
+      "end": 988.1,
+      "text": " Save it from control s"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 988.1,
+      "end": 990.1,
+      "text": " And here I will tell you"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 990.1,
+      "end": 992.1,
+      "text": " Write hash include"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 992.1,
+      "end": 994.1,
+      "text": " And write sdio.h"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 994.1,
+      "end": 996.1,
+      "text": " And after that"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 996.1,
+      "end": 998.1,
+      "text": " Close it like this"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 998.1,
+      "end": 1000.1,
+      "text": " Save from control s"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1000.1,
+      "end": 1002.1,
+      "text": " And after saving"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1002.1,
+      "end": 1004.1,
+      "text": " You click here"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1004.1,
+      "end": 1006.1,
+      "text": " In terminal, in new terminal"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1006.1,
+      "end": 1008.1,
+      "text": " After this, you will write"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1008.1,
+      "end": 1010.1,
+      "text": " Gcc here"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1010.1,
+      "end": 1012.1,
+      "text": " This error will give"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1012.1,
+      "end": 1014.1,
+      "text": " No input files"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1014.1,
+      "end": 1016.1,
+      "text": " If you don't get this error"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1016.1,
+      "end": 1018.1,
+      "text": " And you get another error"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1018.1,
+      "end": 1020.1,
+      "text": " That Gcc is not recognized as an internal"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1020.1,
+      "end": 1022.1,
+      "text": " Or external command"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1022.1,
+      "end": 1024.1,
+      "text": " You can go to the channel page"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1024.1,
+      "end": 1026.1,
+      "text": " Click on search"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1026.1,
+      "end": 1028.1,
+      "text": " And you will search Gcc"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1028.1,
+      "end": 1030.1,
+      "text": " You will get this video"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1030.1,
+      "end": 1032.1,
+      "text": " Gcc is not recognized as an internal"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1032.1,
+      "end": 1034.1,
+      "text": " Or external command"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1034.1,
+      "end": 1036.1,
+      "text": " You can watch it"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1036.1,
+      "end": 1038.1,
+      "text": " And you don't need to come here"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1038.1,
+      "end": 1040.1,
+      "text": " If you have done the steps correctly"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1040.1,
+      "end": 1042.1,
+      "text": " If you have done the steps correctly"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1042.1,
+      "end": 1044.1,
+      "text": " Then the video is ready"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1044.1,
+      "end": 1046.1,
+      "text": " Now I will come back"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1046.1,
+      "end": 1048.1,
+      "text": " And write here"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1048.1,
+      "end": 1050.1,
+      "text": " Gcc main.c"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1050.1,
+      "end": 1052.1,
+      "text": " And I will enter"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1052.1,
+      "end": 1054.1,
+      "text": " As I will write Gcc main.c"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1054.1,
+      "end": 1056.1,
+      "text": " Look here, it is A.exe"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1056.1,
+      "end": 1058.1,
+      "text": " Now I will write"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1058.1,
+      "end": 1060.1,
+      "text": " A and press tab"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1060.1,
+      "end": 1062.1,
+      "text": " So it will take dot slash A.exe"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1062.1,
+      "end": 1064.1,
+      "text": " That is, run A.exe in this directory"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1064.1,
+      "end": 1066.1,
+      "text": " As I will enter"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1066.1,
+      "end": 1068.1,
+      "text": " Look here, it is written Hello Word"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1068.1,
+      "end": 1070.1,
+      "text": " This was the first program"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1070.1,
+      "end": 1072.1,
+      "text": " Which is printed on the Hello Word screen"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1072.1,
+      "end": 1074.1,
+      "text": " So guys, congratulations"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1074.1,
+      "end": 1076.1,
+      "text": " Write in the comment section"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1076.1,
+      "end": 1078.1,
+      "text": " And you have made your first program"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1078.1,
+      "end": 1080.1,
+      "text": " Which is printed on the Hello Word"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1080.1,
+      "end": 1082.1,
+      "text": " I will suggest you to write"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1082.1,
+      "end": 1084.1,
+      "text": " Something else instead of Hello Word"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1084.1,
+      "end": 1086.1,
+      "text": " And you do some experiments there"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1086.1,
+      "end": 1088.1,
+      "text": " And I will make a program"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1088.1,
+      "end": 1090.1,
+      "text": " And you can print other things"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1090.1,
+      "end": 1092.1,
+      "text": " I also want to see how you change it"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1092.1,
+      "end": 1094.1,
+      "text": " We will see about this program"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1094.1,
+      "end": 1096.1,
+      "text": " In the upcoming videos"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1096.1,
+      "end": 1098.1,
+      "text": " For that, just copy and paste it"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1098.1,
+      "end": 1100.1,
+      "text": " And run it"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1100.1,
+      "end": 1102.1,
+      "text": " You will find this program in the description"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1102.1,
+      "end": 1104.1,
+      "text": " I will give you the link"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1104.1,
+      "end": 1106.1,
+      "text": " Or else, you have to enter the main"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1106.1,
+      "end": 1108.1,
+      "text": " And add this line"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1108.1,
+      "end": 1110.1,
+      "text": " I will again tell you"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1110.1,
+      "end": 1112.1,
+      "text": " That I will describe this program well"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1112.1,
+      "end": 1114.1,
+      "text": " In the upcoming videos"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1114.1,
+      "end": 1116.1,
+      "text": " And I will clear your concept"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1116.1,
+      "end": 1118.1,
+      "text": " What is this return, main, end"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1118.1,
+      "end": 1120.1,
+      "text": " So for now, your concern"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1120.1,
+      "end": 1122.1,
+      "text": " Is that this program is running"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1122.1,
+      "end": 1124.1,
+      "text": " Everything is set"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1124.1,
+      "end": 1126.1,
+      "text": " Our environment should be set"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1126.1,
+      "end": 1128.1,
+      "text": " If you want to zoom in the visual studio code"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1128.1,
+      "end": 1130.1,
+      "text": " You can zoom in by pressing control plus"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1130.1,
+      "end": 1132.1,
+      "text": " It zooms in the entire editor"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1132.1,
+      "end": 1134.1,
+      "text": " This is useful for me because I am recording videos"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1134.1,
+      "end": 1136.1,
+      "text": " But if you ever need to record something"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1136.1,
+      "end": 1138.1,
+      "text": " You can read your screen"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1138.1,
+      "end": 1140.1,
+      "text": " Or if you want to see something big"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1140.1,
+      "end": 1142.1,
+      "text": " In a big monitor"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1142.1,
+      "end": 1144.1,
+      "text": " You can use this feature"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1144.1,
+      "end": 1146.1,
+      "text": " During this course"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1146.1,
+      "end": 1148.1,
+      "text": " If we use any feature of visual studio code"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1148.1,
+      "end": 1150.1,
+      "text": " I will explain you there"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1150.1,
+      "end": 1152.1,
+      "text": " So guys, in the comment section"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1152.1,
+      "end": 1154.1,
+      "text": " Please tell me once"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1154.1,
+      "end": 1156.1,
+      "text": " Did you use visual studio code"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1156.1,
+      "end": 1158.1,
+      "text": " Or did you use code blogs, turbos"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1158.1,
+      "end": 1160.1,
+      "text": " Like using IDE"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1160.1,
+      "end": 1162.1,
+      "text": " Please tell me in the comment section"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1162.1,
+      "end": 1164.1,
+      "text": " It is very important for me"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1164.1,
+      "end": 1166.1,
+      "text": " I want to know how many people have used visual studio code"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1166.1,
+      "end": 1168.1,
+      "text": " So guys, I hope you have understood"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1168.1,
+      "end": 1170.1,
+      "text": " All the things that are mentioned in this video"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1170.1,
+      "end": 1172.1,
+      "text": " And you have installed your visual studio code"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1172.1,
+      "end": 1174.1,
+      "text": " Guys, if you have any issue"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1174.1,
+      "end": 1176.1,
+      "text": " Please tell me in the comment"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1176.1,
+      "end": 1178.1,
+      "text": " Don't hesitate to comment"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1178.1,
+      "end": 1180.1,
+      "text": " I will take full responsibility"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1180.1,
+      "end": 1182.1,
+      "text": " If you have any issue in IDE"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1182.1,
+      "end": 1184.1,
+      "text": " Or any error"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1184.1,
+      "end": 1186.1,
+      "text": " I will reply in the comment section"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1186.1,
+      "end": 1188.1,
+      "text": " Because if you can't start from here"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1188.1,
+      "end": 1190.1,
+      "text": " If you can't install IDE and compiler"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1190.1,
+      "end": 1192.1,
+      "text": " Then it will be a problem"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1192.1,
+      "end": 1194.1,
+      "text": " So you can read my pinned comment in the description"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1194.1,
+      "end": 1196.1,
+      "text": " There will be any resource in it"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1196.1,
+      "end": 1198.1,
+      "text": " To correct your error"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1198.1,
+      "end": 1200.1,
+      "text": " I will put the common errors in it"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1200.1,
+      "end": 1202.1,
+      "text": " So that you can solve your error easily"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1202.1,
+      "end": 1204.1,
+      "text": " Guys, many people ask me"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1204.1,
+      "end": 1206.1,
+      "text": " What can I do for you"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1206.1,
+      "end": 1208.1,
+      "text": " So I will tell you"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1208.1,
+      "end": 1210.1,
+      "text": " If you want to help me"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1210.1,
+      "end": 1212.1,
+      "text": " Then you will see a share button below"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1212.1,
+      "end": 1214.1,
+      "text": " Press the share button below"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1214.1,
+      "end": 1216.1,
+      "text": " Share this video with your friends"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1216.1,
+      "end": 1218.1,
+      "text": " Any programming group"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1218.1,
+      "end": 1220.1,
+      "text": " Or your job"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1220.1,
+      "end": 1222.1,
+      "text": " There is a programers group"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1222.1,
+      "end": 1224.1,
+      "text": " Or if you are in school or college"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1224.1,
+      "end": 1226.1,
+      "text": " Then you will have a group on facebook and whatsapp"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1226.1,
+      "end": 1228.1,
+      "text": " Share these videos there"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1228.1,
+      "end": 1230.1,
+      "text": " I just want this much from you"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1230.1,
+      "end": 1232.1,
+      "text": " So that's all for this video"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1232.1,
+      "end": 1234.1,
+      "text": " I hope you have understood everything"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1234.1,
+      "end": 1236.1,
+      "text": " And everything will be smooth"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1236.1,
+      "end": 1238.1,
+      "text": " Thank you for watching this video"
+    },
+    {
+      "number": "3.mp4",
+      "title": "Install & Configure VS Code With C Compiler C Tutorial In Hindi #3.mp4",
+      "start": 1238.1,
+      "end": 1240.1,
+      "text": " And I will see you next time"
+    }
+  ],
+  "text": " After watching this video, you will learn to use modern C compiler and tools Guys, increase your excitement level because in this video, we will write our first program Yes, you heard it right, our first program we are going to write in this video And I will show you by running it and you will run it yourself Guys, whenever you go to any field, especially in the field of war, the weapons are very important And the same is true for programming, if you do programming and your tools, your weapons If you are not using them correctly, then your programming will not be as efficient as you can That is, you will lose the opportunity to save your time and programs That is why I will introduce you to modern compiler and tools Not only during the course, as the course progresses and as things will continue to come I will tell you what things you should use in the modern era Like I give you an example, Turbo C and Turbo C++ are discontinued today These two IDE were used in the old times, but whatever it is today's modern language, we do not use these ideas Why? Because we will use better alternatives in today's date Guys, here I want to clear the difference between IDE and compiler Guys, we will use IDE and compiler here Now you will think about the IDE and compiler, I will explain the difference between both IDE is an integrated development environment which is a better alternative of notepad and text editor Why is it a better alternative? Because it has better alternatives because you can check syntax highlighting or syntax checking Suppose you put a bracket less, then it will shine with red color and you will know that I have put a bracket less And now I should correct my program by putting a bracket Along with that, it keeps warning you that this line is wrong on the small side And it gives you a good environment like where you can run a compiler, you do not need to open a terminal separately We will use the IDE called Visual Studio Code here, now you will think why Visual Studio Code? Because it is free from Microsoft, it is open source, we will use it because There is a daily community on a daily basis, people keep talking on GitHub, people keep improving about issues And this is a very good IDE and many people have accepted it Now I will come back to the difference between IDE and C compiler, the IDE is for you It helps you to write a good program and it helps you to see it well But the compiler has a different task The compiler will convert the text in the CPU instructions, that is executable If you install only IDE, you do not install a compiler, then you have installed a tool that will write code well You have not installed any HHs that will compile your program and help you to convert it in machine instructions We will use Visual Studio Code as IDE and we will tell Visual Studio Code which compiler we want to use So guys if you are in Mac or Linux based operating system, I will tell you that your compiler is already installed So you have to use similar steps to install Visual Studio Code I will tell you for Windows because majority of the people use Windows We will have to install a compiler in Windows, so I will show you how we will install a compiler So let's go to Google Chrome and see how we will install this compiler Before we start the installation, I want to tell you that if you are not able to understand technicality So don't worry because we will write basic C programs and after that you can come back and learn how CPU instructions work You can make C program efficient and all these things will come later First of all we have to start basic C program So your target should be that your compiler, IDE, etc. should be set as I told you And the program we are going to run in this video, that is the first program you can make With that said, I will start IDE and compiler installation Listen carefully to what I am telling you and do as I am doing So guys I have come to my computer and now I will open the Google Chrome browser As you can see my browser is open, I will type in Google search Download Visual Studio Code And as I will write this, you can see the first result which I can see from Microsoft I will click on it and as soon as I go in it, as you can see I am getting download options In download options, I will install Visual Studio Code Guys, let's wait for a while and if you haven't liked this video yet, then please give a thumbs up to this video So our Visual Studio Code is downloaded, as you can see I will simply open it You can click here and open it or just download it in the folder and double click there Here I will click on Next and I will accept the agreement I will read the whole agreement, I have read it all, now I will click on Next And as soon as I see the default location, I will do the next and install it Now here it says Don't create a start menu folder, I will not do anything Simply I will click on Next and here it says add open with code action to windows explorer So I will not do anything, I will simply click on Next and install it So whatever defaults I have put on it, simply by clicking Next, Next, Next I have simply installed it on my Visual Studio Code This is my Visual Studio Code installed on my computer, as you can see As soon as I am telling you the steps, follow it And in the launch Visual Studio Code, it is ticked here I will just leave it like this and click on Finish As soon as I click on Finish, you can see that my Visual Studio Code is open I hope that everyone's Visual Studio Code must have been well-run And you must have reached here at least Now we have to create a new folder and write our C files But we have not installed the compiler yet Like I told you, the integrated development environment of IDE is our code The code is useful to write The compiler is useful to make machine instructions in the code That is, .exe file which is useful to make in windows So whatever code we write, it will be a .exe file That will be our software To make that software from our .exe file, we need a utility And we call that utility compiler So let's go back to our Google Chrome and download the compiler If you write C programming in VS Code and enter Then the page of code.visualstudio.com will be opened That is, the website of Visual Studio will be opened Now the programming of C and C++ is very similar That is why they have clubbed it I would like to take you down Here C++ is written, you can click here And you can click on MinGW on Windows Now here this link can be seen in the future If you see it, then this link is not there That is why I will put the link of MinGW, W64 compiler in the description And as soon as I click on it, it is opened You can come here on this page And as soon as I click on it, it is called Installation Source Forge I will click on it Now why I came through this link Because this Microsoft has officially given I trust Microsoft I clicked on MinGW and Windows Now my compiler is going to download So look here, my compiler is downloading And I let it download Till then I will tell you That the compilers are very different It is not necessary that you use MinGW C compilers are different But for programming here This MinGW is perfect for us Even if you make an application of production level Then you can use MinGW compiler MinGW compiler is a safe option That is why Microsoft has given it a link on their website Now the download is on MinGW You click on it and open it And you run it Simply click on Next And it is called Getting Repository Description You don't have to eat anything, just click on Next And just like we did before I will click on Next And as soon as I click on Next Look, it has started installing MinGW in my computer So I will tell you again to remind you Neither we have changed the default option For Visual Studio Code Nor we have changed MinGW Simply click on Next And where you have to accept the license We have accepted the license there So as you can see, my installation is complete So I will click on Next And I will click on Next to continue the installation And I will click on Finish after I have done it Now what I am going to tell you You have to do it very carefully So listen to me carefully You go to your My Computer And go to Program Files Where you will get a folder called MinGWW64 That folder is very important The compiler that we have installed That is installed Now we have to open this folder And here we have to open this folder Then we have to double click on MinGW32 And then double click on Bin I will bring you back to Program Files Then MinGWW64 Then here there will be a folder Just open it and then MinGW32 And then you have to come in Bin After doing this You have to copy this path If you click on it, then you have to copy this path By pressing Ctrl C And then you will write it on your desktop On My PC And you will go to Properties Listen to me carefully After going to Properties You will go to Advanced System Settings And then you will go to Environment Variables I will tell you again I have done it rightly on this PC I have clicked on Advanced System Settings Then you will have to select Path And then click on Edit Path Edit I clicked on it Then you click on New After clicking on New You will get a typing prompt You paste it on it You copy it and enter it Then you click on OK Then click on OK Then click on OK again And close everything What have we done? We have added this folder in Path That means Whenever I want GCC.exe Which is the compiler of C GCC.exe I will just write GCC From my terminal And this full path will automatically take it from there I will tell you again Whatever we add in Path Whatever folder we add in Path Variable Whatever the folder contains We can directly access them in the name If I write GCC I will directly invoke it Otherwise I have to give full path You are not understanding all this That's totally fine If you are a beginner I will not force you to understand all this Just do as I have told you And in the coming time As you will write good C programs And your understanding will increase Then you can understand it in revision time But if you have understood it so much That now we can use GCC Anywhere we can use it from terminal That should be enough At this point I will suggest you To restart your computer Because we have just installed Visual Studio Code We have installed C compiler So if you restart it It will be better So I have restarted my computer And I will open my Visual Studio Code I will click on File I will click on Open Folder And you can click on Open Folder You can make a folder anywhere And we will make our project of C I will make a new folder I will write C tutorials And here I will write course And I will enter This folder is my selected folder And my folder is selected In Visual Studio Code Now I will give you a quick introduction I will not tell you much details I will give you a quick introduction C tutorials course is written here This folder is opened in Visual Studio Code And this is the new file This is the new directory If I click on main.c Then what will happen here I have made a .c file And if I click on this My directory Then it will become a folder And the folder named .vscode Is already made here At this point I will suggest you Click here These icons are visible The first one is Explorer And the second one is Minidbugger Visual Studio Code And then extensions Extensions of Visual Studio Code Are used to increase the capabilities So if I click on extension I will suggest you to search CC++ IntelliSense And you will get an extension from Microsoft Click on Install And after clicking on Install It will be installed After that you can come here In C file And this IntelliSense Which is our It helps us in giving suggestions To improve our code If I write here And enter Now what does this code do Don't take any tension I will do it again by doing control z I just wanted to tell you what it does We have made our first program Before that I want to tell you About Visual Studio Code Along with this you will see Some options will appear in front of you Like Command Palette, settings Extensions, keyboard shortcuts I will click on keyboard shortcuts And after clicking on keyboard shortcuts I will configure some shortcuts For example, format document I want to keep it short Control, Shift and H I have kept control, shift and H And I have configured it By pressing the Enter Control, Shift and H All these things will be visual studio code It will be a topic for itself So I won't go into it much And I will keep the default things as much as possible After that I will click here And here I will click on settings After that I will search for mouse wheel And here it is written Editor mouse wheel zoom I will check it You are ensuring that this is a check What will happen is that you will click control and scroll You can make your text smaller You can write anything in any file You can press the controller mouse wheel You can scroll mouse wheel and make it smaller It is very useful Now I will tell you to write the main And as soon as you write the main Look at this, there is something coming here And it is written as code snippet for main You can click on it And you have already given some code to visual studio code name This is the benefit of using an IDE So guys, as I told you The difference between IDE and compiler That IDE is The source code that you see And it helps you to write fast In a good way We will see how this works For now you just understand That it is better to write code in notepad We will write code here And why is it good? We will see it in time I will tell you one or two things For example, if you have a variable name Camel is a good boy This is a variable name And it is written in camel case If you write C, it will suggest you Camel is a good boy You can take the whole variable And you have to type in notepad So here you have advantage And if you don't understand this So I will tell you, stay with this course We will see how this Ide for us, visual studio code And visual studio code is a very good idea That's why I have installed you After this, you write Print F And write here Hello Word This is our first program Put the column Save it from control s And here I will tell you Write hash include And write sdio.h And after that Close it like this Save from control s And after saving You click here In terminal, in new terminal After this, you will write Gcc here This error will give No input files If you don't get this error And you get another error That Gcc is not recognized as an internal Or external command You can go to the channel page Click on search And you will search Gcc You will get this video Gcc is not recognized as an internal Or external command You can watch it And you don't need to come here If you have done the steps correctly If you have done the steps correctly Then the video is ready Now I will come back And write here Gcc main.c And I will enter As I will write Gcc main.c Look here, it is A.exe Now I will write A and press tab So it will take dot slash A.exe That is, run A.exe in this directory As I will enter Look here, it is written Hello Word This was the first program Which is printed on the Hello Word screen So guys, congratulations Write in the comment section And you have made your first program Which is printed on the Hello Word I will suggest you to write Something else instead of Hello Word And you do some experiments there And I will make a program And you can print other things I also want to see how you change it We will see about this program In the upcoming videos For that, just copy and paste it And run it You will find this program in the description I will give you the link Or else, you have to enter the main And add this line I will again tell you That I will describe this program well In the upcoming videos And I will clear your concept What is this return, main, end So for now, your concern Is that this program is running Everything is set Our environment should be set If you want to zoom in the visual studio code You can zoom in by pressing control plus It zooms in the entire editor This is useful for me because I am recording videos But if you ever need to record something You can read your screen Or if you want to see something big In a big monitor You can use this feature During this course If we use any feature of visual studio code I will explain you there So guys, in the comment section Please tell me once Did you use visual studio code Or did you use code blogs, turbos Like using IDE Please tell me in the comment section It is very important for me I want to know how many people have used visual studio code So guys, I hope you have understood All the things that are mentioned in this video And you have installed your visual studio code Guys, if you have any issue Please tell me in the comment Don't hesitate to comment I will take full responsibility If you have any issue in IDE Or any error I will reply in the comment section Because if you can't start from here If you can't install IDE and compiler Then it will be a problem So you can read my pinned comment in the description There will be any resource in it To correct your error I will put the common errors in it So that you can solve your error easily Guys, many people ask me What can I do for you So I will tell you If you want to help me Then you will see a share button below Press the share button below Share this video with your friends Any programming group Or your job There is a programers group Or if you are in school or college Then you will have a group on facebook and whatsapp Share these videos there I just want this much from you So that's all for this video I hope you have understood everything And everything will be smooth Thank you for watching this video And I will see you next time"
+}

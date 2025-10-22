@@ -1,0 +1,1447 @@
+{
+  "chunks": [
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 0.0,
+      "end": 6.0,
+      "text": " Guys, through this video, you will understand the meaning of coding and programming properly."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 9.0,
+      "end": 14.0,
+      "text": " Guys, in this video, what I am going to tell you today, I wish someone would have told me 5-6 years ago."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 14.0,
+      "end": 17.0,
+      "text": " So, it would be fun. My life changes a little."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 17.0,
+      "end": 21.0,
+      "text": " The thing I have learned from programming, it changes a little."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 21.0,
+      "end": 26.0,
+      "text": " Guys, you do anything through computer. You write in SQL, in code python, in anything."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 26.0,
+      "end": 34.0,
+      "text": " Here, this tutorial is from C. But, I generally talk to you guys that in any language, if you write any code,"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 34.0,
+      "end": 37.0,
+      "text": " then why do you do programming? Can't we say this to the computer,"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 37.0,
+      "end": 42.0,
+      "text": " that you write a hello word, do this, do that, why can't we do this?"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 42.0,
+      "end": 46.0,
+      "text": " I will tell you today. Guys, programming is in any language."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 46.0,
+      "end": 50.0,
+      "text": " It is a way of interaction between us and the computer."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 50.0,
+      "end": 55.0,
+      "text": " It is a way through which we tell the computer what we want to do."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 55.0,
+      "end": 59.0,
+      "text": " In this way, I am using Hindi language to express my emotions."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 59.0,
+      "end": 63.0,
+      "text": " And I am explaining to you guys what C language is. Why do you do programming, why do you do coding."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 63.0,
+      "end": 67.0,
+      "text": " Similarly, to tell the computer that you want to write a hello word on the screen,"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 67.0,
+      "end": 71.0,
+      "text": " or you want to record your audio, or you want to watch a movie."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 71.0,
+      "end": 77.0,
+      "text": " To make such computer programs, you have to use a language."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 77.0,
+      "end": 83.0,
+      "text": " To interact with the computer, you have to use a thing, you have to use a programming language,"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 83.0,
+      "end": 87.0,
+      "text": " you have to use a medium. This is the medium,"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 87.0,
+      "end": 91.0,
+      "text": " this is the medium of programming language, which you tell your CPU"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 91.0,
+      "end": 95.0,
+      "text": " what you want to do. Just like I am talking to you guys in Hindi,"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 95.0,
+      "end": 99.0,
+      "text": " like I am telling you in Hindi or in English, if you talk to someone,"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 99.0,
+      "end": 103.0,
+      "text": " we understand each other's emotions, we understand each other's emotions."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 103.0,
+      "end": 107.0,
+      "text": " Similarly, to interact with the computer, you have to use programming language."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 107.0,
+      "end": 111.0,
+      "text": " Guys, do you like these videos? If you have any questions,"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 111.0,
+      "end": 115.0,
+      "text": " do you like these videos? If you have any videos that you like,"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 115.0,
+      "end": 119.0,
+      "text": " and you want me to make videos like this, then click the like button."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 119.0,
+      "end": 123.0,
+      "text": " Guys, a computer is a very dumb machine."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 123.0,
+      "end": 127.0,
+      "text": " Yes, you guys are right. A computer is a very dumb machine."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 127.0,
+      "end": 131.0,
+      "text": " And to explain it, to explain its CPU,"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 131.0,
+      "end": 135.0,
+      "text": " which is called the brain of computer, the central processing unit."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 135.0,
+      "end": 139.0,
+      "text": " If you have not heard it, then I will tell you. The CPU, which is the brain of the computer,"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 139.0,
+      "end": 143.0,
+      "text": " is executed by the instructions there. So, the CPU"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 143.0,
+      "end": 147.0,
+      "text": " needs the exact language that is understood by it."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 147.0,
+      "end": 151.0,
+      "text": " What to do? If you send it an instruction,"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 151.0,
+      "end": 155.0,
+      "text": " then copy it in this, then it will copy it. Do it like this, do it like this."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 155.0,
+      "end": 159.0,
+      "text": " It needs the exact language in its language. How to do it."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 159.0,
+      "end": 163.0,
+      "text": " And if you guys speak in Hindi, like, hello, print, do it like this,"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 163.0,
+      "end": 167.0,
+      "text": " then it will not understand at all. This is the problem of the computer."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 167.0,
+      "end": 171.0,
+      "text": " That is why I called the computer a dumb machine. Unfortunately,"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 171.0,
+      "end": 175.0,
+      "text": " this language, which is called the CPU, is the language of 0s and 1s."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 175.0,
+      "end": 179.0,
+      "text": " If we can say it, then it will be very difficult for us to"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 179.0,
+      "end": 183.0,
+      "text": " do small things in our computer. So, what is its solution? Its solution is simple."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 183.0,
+      "end": 187.0,
+      "text": " For this, you have to go up to a level of abstraction."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 187.0,
+      "end": 191.0,
+      "text": " I will explain what I mean. Guys, any computer system"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 191.0,
+      "end": 195.0,
+      "text": " has abstraction layers. That is, the CPU language"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 195.0,
+      "end": 199.0,
+      "text": " feeds something else. And it reacts accordingly."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 199.0,
+      "end": 203.0,
+      "text": " This layer of abstraction comes in your mouse and keyboard."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 203.0,
+      "end": 207.0,
+      "text": " You pressed the button of your keyboard, helped you to travel"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 207.0,
+      "end": 211.0,
+      "text": " instructions. And from there, your instruction was reached"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 211.0,
+      "end": 215.0,
+      "text": " the CPU language. Similarly, if you guys make any program,"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 215.0,
+      "end": 219.0,
+      "text": " then you guys want to tell the CPU what you want to do."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 219.0,
+      "end": 223.0,
+      "text": " What program you want to launch, what you want to do,"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 223.0,
+      "end": 227.0,
+      "text": " what file you want to copy. There are many aspects in programming."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 227.0,
+      "end": 231.0,
+      "text": " And we will learn all those things in the tutorial series. Basically,"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 231.0,
+      "end": 235.0,
+      "text": " you just understand this. Don't get confused at all. The computer,"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 235.0,
+      "end": 239.0,
+      "text": " which is a dumb machine, we write programming language to make"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 239.0,
+      "end": 243.0,
+      "text": " its language. That is, we compile the programming language"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 243.0,
+      "end": 247.0,
+      "text": " and convert it into machine language, which finally understands the CPU."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 247.0,
+      "end": 251.0,
+      "text": " And if we say this language in natural language,"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 251.0,
+      "end": 255.0,
+      "text": " then it will not be possible to execute instructions for CPU."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 255.0,
+      "end": 259.0,
+      "text": " Now, I know that you guys are beginners, you are starting programming."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 259.0,
+      "end": 263.0,
+      "text": " To explain all this, I had told you all this. Now, after meeting the cool,"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 263.0,
+      "end": 267.0,
+      "text": " you just understand that we cannot directly talk to the computer."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 267.0,
+      "end": 271.0,
+      "text": " We cannot talk to it in English, Hindi, Punjabi, Urdu."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 271.0,
+      "end": 275.0,
+      "text": " We want a programming language to interact with it."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 275.0,
+      "end": 279.0,
+      "text": " The programming language, the way you have to learn a French, German language,"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 279.0,
+      "end": 283.0,
+      "text": " you have to learn it. And this course is for this. I am going to explain this programming language"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 283.0,
+      "end": 287.0,
+      "text": " in a very good way in this course. Don't get confused here."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 287.0,
+      "end": 291.0,
+      "text": " Don't understand that I told you that computer doesn't understand natural language."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 291.0,
+      "end": 295.0,
+      "text": " So, you will be thinking how virtual assistants work."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 295.0,
+      "end": 299.0,
+      "text": " So, guys, virtual assistants are a program in themselves, which is written"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 299.0,
+      "end": 303.0,
+      "text": " through some programming language. Like Siri, and Microsoft's"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 303.0,
+      "end": 307.0,
+      "text": " Cortana, if you say anything, then it is a computer programming. So,"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 307.0,
+      "end": 311.0,
+      "text": " if you have a natural language processing, then programming is also needed."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 311.0,
+      "end": 315.0,
+      "text": " No technology has been made that you guys speak something and directly understand the CPU"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 315.0,
+      "end": 319.0,
+      "text": " and execute the instructions. Like you guys say that I want a website"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 319.0,
+      "end": 323.0,
+      "text": " where it is like this, this, this, this, do this, click this, click this, click that,"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 323.0,
+      "end": 327.0,
+      "text": " and automatically, 100% Cote will be generated."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 327.0,
+      "end": 331.0,
+      "text": " Today, no technology is available in this day and you guys have to do programming."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 331.0,
+      "end": 335.0,
+      "text": " Human intervention will always be required. That is why programming demand"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 335.0,
+      "end": 338.0,
+      "text": " is increasing. Like new systems are being"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 338.0,
+      "end": 340.0,
+      "text": " added in the market. It is not like programming is getting more"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 340.0,
+      "end": 344.0,
+      "text": " expensive. AI machine learning is not yet reaching that far."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 344.0,
+      "end": 348.0,
+      "text": " That you guys should replace it, replace computer programmers."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 348.0,
+      "end": 351.0,
+      "text": " And the demand for C programming like language is increasing."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 351.0,
+      "end": 355.0,
+      "text": " According to that, we will see the C programming jobs"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 355.0,
+      "end": 359.0,
+      "text": " increasing in the market. Guys, no one is going to take the C's"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 359.0,
+      "end": 362.0,
+      "text": " concept of C's history, but the history of C's history is very interesting."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 362.0,
+      "end": 366.0,
+      "text": " I would like to tell you that C programming language was made"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 366.0,
+      "end": 370.0,
+      "text": " by Dennis Richie in 1872 in AT&T Bell Labs."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 370.0,
+      "end": 375.0,
+      "text": " AT&T Bell Labs means American Telephone & Telegraph which is located in the USA."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 375.0,
+      "end": 378.0,
+      "text": " There, Dennis Richie established C programming."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 378.0,
+      "end": 381.0,
+      "text": " It is not like C programming is the first programming language."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 381.0,
+      "end": 385.0,
+      "text": " Like before C programming, there were many programming languages like B, BCPL."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 385.0,
+      "end": 390.0,
+      "text": " But the thing was that in C, people enjoyed it without any advertisement"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 390.0,
+      "end": 396.0,
+      "text": " or promotion or any investment. C programming caught the"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 396.0,
+      "end": 400.0,
+      "text": " speed and speed of the programers. That it became the first choice of"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 400.0,
+      "end": 404.0,
+      "text": " programming language. If I talk about the languages that came before C,"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 404.0,
+      "end": 410.0,
+      "text": " then there are Algon, BCPL, B, then in 1972, there was traditional C."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 410.0,
+      "end": 414.0,
+      "text": " Where Dennis Richie made the first version of C. And there people"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 414.0,
+      "end": 419.0,
+      "text": " enjoyed it. It is like language. It means it was fun."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 419.0,
+      "end": 424.0,
+      "text": " So, when we used to do programming, people and the programming we do today"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 424.0,
+      "end": 429.0,
+      "text": " have a lot of difference. Today we have IDE, we have faster computers."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 429.0,
+      "end": 433.0,
+      "text": " We can do programming very well. But in the olden days, when people"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 433.0,
+      "end": 437.0,
+      "text": " used to do programming, they didn't have a good environment."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 437.0,
+      "end": 441.0,
+      "text": " And programming for them was not as easy as it is for us today."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 441.0,
+      "end": 445.0,
+      "text": " That is why Dennis Richie is considered a genius."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 445.0,
+      "end": 449.0,
+      "text": " Dennis Richie was expired in October 12, 2011."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 449.0,
+      "end": 453.0,
+      "text": " Indeed, he gave programming a new shape and he was worthy of being a"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 453.0,
+      "end": 459.0,
+      "text": " genius. In C programming language, Dennis Richie added very good features."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 459.0,
+      "end": 464.0,
+      "text": " Like memory management, portability, mid-level, structured."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 464.0,
+      "end": 469.0,
+      "text": " And with that, recursions, pointers. He made it so easy that people"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 469.0,
+      "end": 473.0,
+      "text": " started to adopt C without the old language."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 473.0,
+      "end": 477.0,
+      "text": " He was independent and he could compile it for any machine."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 477.0,
+      "end": 481.0,
+      "text": " And he would execute it in that machine. So, I wanted to tell you"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 481.0,
+      "end": 485.0,
+      "text": " as much as I could about why C came into existence. Why did we have to make C?"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 485.0,
+      "end": 489.0,
+      "text": " Why did Dennis Richie make C? Why did people need C?"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 489.0,
+      "end": 493.0,
+      "text": " We have given many examples in the software industry where"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 493.0,
+      "end": 497.0,
+      "text": " something that was not good could have been better than that."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 497.0,
+      "end": 501.0,
+      "text": " And all the people came there. I would like to give you an example."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 501.0,
+      "end": 505.0,
+      "text": " On the day of the launch of the social networking platform, all the people"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 505.0,
+      "end": 509.0,
+      "text": " came to Facebook and left Facebook behind."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 509.0,
+      "end": 513.0,
+      "text": " Similarly, there are many examples like browser, Google Chrome, better."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 513.0,
+      "end": 517.0,
+      "text": " People left the Internet Explorer. We have many more examples."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 517.0,
+      "end": 521.0,
+      "text": " So, you should understand why people adopted C."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 521.0,
+      "end": 525.0,
+      "text": " Why don't people adopt a reliable, simple and easy to use language?"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 525.0,
+      "end": 529.0,
+      "text": " And in the world of today, in which the tools and technology are in the industry"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 529.0,
+      "end": 533.0,
+      "text": " there are so many companies on a daily basis. And a language"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 533.0,
+      "end": 537.0,
+      "text": " that has been standing on its own for almost 50 years and is going to make"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 537.0,
+      "end": 541.0,
+      "text": " its 50th birthday C language, that language will have to be good."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 541.0,
+      "end": 545.0,
+      "text": " That language was liked by people for 50 years. I would like to talk about a topic"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 545.0,
+      "end": 549.0,
+      "text": " that people say that already C has replaced C++, C hash"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 549.0,
+      "end": 553.0,
+      "text": " and Java Python. Now, C is useless."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 553.0,
+      "end": 557.0,
+      "text": " Now, C has been behind. So, I will clear this doubt for you."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 557.0,
+      "end": 561.0,
+      "text": " See, the C programming language is still as powerful as it used to be"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 561.0,
+      "end": 565.0,
+      "text": " and its demand is increasing day by day. People will say"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 565.0,
+      "end": 569.0,
+      "text": " that C++ is more than C. But I would like to tell you that"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 569.0,
+      "end": 573.0,
+      "text": " to learn C++, you have to learn the concept of C."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 573.0,
+      "end": 577.0,
+      "text": " And C++ has been made through C. C has been made ahead."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 577.0,
+      "end": 581.0,
+      "text": " That is why its name has been given C++ and D has not been given."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 581.0,
+      "end": 585.0,
+      "text": " So, the C++ that Stoustrup made,"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 585.0,
+      "end": 589.0,
+      "text": " has been made by giving C object oriented features."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 589.0,
+      "end": 593.0,
+      "text": " So, if you feel that you will learn C++ directly"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 593.0,
+      "end": 597.0,
+      "text": " without learning C, then I will tell you. It is not like that."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 597.0,
+      "end": 601.0,
+      "text": " If you learn C first, then you will be able to become a good programmer."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 601.0,
+      "end": 605.0,
+      "text": " I am making these things from my experience. But I would like to tell you"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 605.0,
+      "end": 609.0,
+      "text": " that the right way is to learn C and then go to C++. Because C has"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 609.0,
+      "end": 613.0,
+      "text": " basics and it has some advanced stuff in C++ like object oriented programming"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 613.0,
+      "end": 617.0,
+      "text": " and inheritance, polymorphism, classes, objects."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 617.0,
+      "end": 621.0,
+      "text": " So, it will be difficult to understand all these things."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 621.0,
+      "end": 625.0,
+      "text": " That is why I will tell you to complete a beginner C."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 625.0,
+      "end": 629.0,
+      "text": " And believe me, if you are studying C, then you are making your basic fundamentals strong."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 629.0,
+      "end": 633.0,
+      "text": " Once you understand the fundamentals of programming, then you can learn any language"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 633.0,
+      "end": 637.0,
+      "text": " because the basic things should come to your mind."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 637.0,
+      "end": 641.0,
+      "text": " After that, you can learn anything and learn any way. Once you know"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 641.0,
+      "end": 645.0,
+      "text": " that you are doing all these things, variables, functions,"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 645.0,
+      "end": 649.0,
+      "text": " conditionals, all these things are almost the same in every language."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 649.0,
+      "end": 653.0,
+      "text": " That is why I will tell you to learn C programming language and make your basic fundamentals strong."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 653.0,
+      "end": 657.0,
+      "text": " And I will not point out again and again, but C programming language is extremely fast."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 657.0,
+      "end": 661.0,
+      "text": " If you want to squeeze your performance and write a better program"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 661.0,
+      "end": 665.0,
+      "text": " which is fast and reliable, then you can use C programming language."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 665.0,
+      "end": 669.0,
+      "text": " That is why in the video game industry, where you"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 669.0,
+      "end": 673.0,
+      "text": " need a good speed and the speed is very important,"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 673.0,
+      "end": 677.0,
+      "text": " you can use C and C++."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 677.0,
+      "end": 681.0,
+      "text": " We will learn C programming very systematically. We will start with basic things."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 681.0,
+      "end": 685.0,
+      "text": " We will start from the bottom and then advance slowly."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 685.0,
+      "end": 689.0,
+      "text": " As you all know any language, first you learn its alphabet,"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 689.0,
+      "end": 693.0,
+      "text": " then you learn to make words, then you learn to make sentences,"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 693.0,
+      "end": 697.0,
+      "text": " then you learn to write paragraphs, then you see"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 697.0,
+      "end": 701.0,
+      "text": " how to write the first one, which we call writing."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 701.0,
+      "end": 705.0,
+      "text": " Similarly, in programming, I will tell you"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 705.0,
+      "end": 709.0,
+      "text": " which keywords, special symbols, alphabets are there,"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 709.0,
+      "end": 713.0,
+      "text": " then we will talk about constants, keywords, variables, etc."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 713.0,
+      "end": 717.0,
+      "text": " Then we will see how we can write instructions,"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 717.0,
+      "end": 721.0,
+      "text": " how we can tell the computer what and how to do it,"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 721.0,
+      "end": 725.0,
+      "text": " and finally how we can make its program, that is, how we can compile it and make it executable."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 725.0,
+      "end": 729.0,
+      "text": " We will see how we can improve our programming logic,"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 729.0,
+      "end": 733.0,
+      "text": " as I told you about writing, here it will be like this,"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 733.0,
+      "end": 737.0,
+      "text": " to improve our logic, to execute things in time,"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 737.0,
+      "end": 741.0,
+      "text": " to make the program reliable, to make the program easy to maintain,"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 741.0,
+      "end": 745.0,
+      "text": " we will see many aspects in this course."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 745.0,
+      "end": 749.0,
+      "text": " We will see all these things step by step."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 749.0,
+      "end": 753.0,
+      "text": " Guys, I am planning to make more courses like data structures,"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 753.0,
+      "end": 757.0,
+      "text": " algorithms, C++, and more things."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 757.0,
+      "end": 761.0,
+      "text": " So if you want to support this channel, then share this playlist"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 761.0,
+      "end": 765.0,
+      "text": " below, I have given the playlist link in the description,"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 765.0,
+      "end": 769.0,
+      "text": " so that I can bring more courses for you."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 769.0,
+      "end": 773.0,
+      "text": " So guys, I hope you will like this video."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 773.0,
+      "end": 777.0,
+      "text": " Don't miss the next video, because we will make our first program in it."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 777.0,
+      "end": 781.0,
+      "text": " And along with making our first program, we will understand how we can"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 781.0,
+      "end": 785.0,
+      "text": " install it in our computer. And no, I will not tell you about"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 785.0,
+      "end": 789.0,
+      "text": " any old idea, turbo-C, and all that useless things."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 789.0,
+      "end": 793.0,
+      "text": " I will prepare you for the next 5 to 10 years."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 793.0,
+      "end": 797.0,
+      "text": " I will prepare you for the next 5 to 10 years for the job market."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 797.0,
+      "end": 801.0,
+      "text": " I will teach you how to use modern tools, modern compilers,"
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 801.0,
+      "end": 805.0,
+      "text": " and techniques. This course will be taught with a modern approach."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 805.0,
+      "end": 809.0,
+      "text": " That is why I say that you can subscribe to the channel and press the bell icon."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 809.0,
+      "end": 813.0,
+      "text": " Because these courses go away from the educational channel."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 813.0,
+      "end": 817.0,
+      "text": " I don't want you to lose this channel and leave this course."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 817.0,
+      "end": 821.0,
+      "text": " So subscribe below and press the bell icon."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 821.0,
+      "end": 825.0,
+      "text": " So that you can become a proud member of this channel."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 825.0,
+      "end": 829.0,
+      "text": " So I hope that whatever I have told you in this video, you must have understood."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 829.0,
+      "end": 833.0,
+      "text": " What do you think about this video? Do let me know in the comments."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 833.0,
+      "end": 837.0,
+      "text": " And how excited are you? Do let me know in the comments."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 837.0,
+      "end": 841.0,
+      "text": " I am sitting and waiting for you. So that's all for now."
+    },
+    {
+      "number": "2.mp4",
+      "title": "What Is Coding & C Programming Language  C Tutorial In Hindi #2.mp4",
+      "start": 841.0,
+      "end": 845.0,
+      "text": " Thank you so much guys for watching this video. And I will see you next time."
+    }
+  ],
+  "text": " Guys, through this video, you will understand the meaning of coding and programming properly. Guys, in this video, what I am going to tell you today, I wish someone would have told me 5-6 years ago. So, it would be fun. My life changes a little. The thing I have learned from programming, it changes a little. Guys, you do anything through computer. You write in SQL, in code python, in anything. Here, this tutorial is from C. But, I generally talk to you guys that in any language, if you write any code, then why do you do programming? Can't we say this to the computer, that you write a hello word, do this, do that, why can't we do this? I will tell you today. Guys, programming is in any language. It is a way of interaction between us and the computer. It is a way through which we tell the computer what we want to do. In this way, I am using Hindi language to express my emotions. And I am explaining to you guys what C language is. Why do you do programming, why do you do coding. Similarly, to tell the computer that you want to write a hello word on the screen, or you want to record your audio, or you want to watch a movie. To make such computer programs, you have to use a language. To interact with the computer, you have to use a thing, you have to use a programming language, you have to use a medium. This is the medium, this is the medium of programming language, which you tell your CPU what you want to do. Just like I am talking to you guys in Hindi, like I am telling you in Hindi or in English, if you talk to someone, we understand each other's emotions, we understand each other's emotions. Similarly, to interact with the computer, you have to use programming language. Guys, do you like these videos? If you have any questions, do you like these videos? If you have any videos that you like, and you want me to make videos like this, then click the like button. Guys, a computer is a very dumb machine. Yes, you guys are right. A computer is a very dumb machine. And to explain it, to explain its CPU, which is called the brain of computer, the central processing unit. If you have not heard it, then I will tell you. The CPU, which is the brain of the computer, is executed by the instructions there. So, the CPU needs the exact language that is understood by it. What to do? If you send it an instruction, then copy it in this, then it will copy it. Do it like this, do it like this. It needs the exact language in its language. How to do it. And if you guys speak in Hindi, like, hello, print, do it like this, then it will not understand at all. This is the problem of the computer. That is why I called the computer a dumb machine. Unfortunately, this language, which is called the CPU, is the language of 0s and 1s. If we can say it, then it will be very difficult for us to do small things in our computer. So, what is its solution? Its solution is simple. For this, you have to go up to a level of abstraction. I will explain what I mean. Guys, any computer system has abstraction layers. That is, the CPU language feeds something else. And it reacts accordingly. This layer of abstraction comes in your mouse and keyboard. You pressed the button of your keyboard, helped you to travel instructions. And from there, your instruction was reached the CPU language. Similarly, if you guys make any program, then you guys want to tell the CPU what you want to do. What program you want to launch, what you want to do, what file you want to copy. There are many aspects in programming. And we will learn all those things in the tutorial series. Basically, you just understand this. Don't get confused at all. The computer, which is a dumb machine, we write programming language to make its language. That is, we compile the programming language and convert it into machine language, which finally understands the CPU. And if we say this language in natural language, then it will not be possible to execute instructions for CPU. Now, I know that you guys are beginners, you are starting programming. To explain all this, I had told you all this. Now, after meeting the cool, you just understand that we cannot directly talk to the computer. We cannot talk to it in English, Hindi, Punjabi, Urdu. We want a programming language to interact with it. The programming language, the way you have to learn a French, German language, you have to learn it. And this course is for this. I am going to explain this programming language in a very good way in this course. Don't get confused here. Don't understand that I told you that computer doesn't understand natural language. So, you will be thinking how virtual assistants work. So, guys, virtual assistants are a program in themselves, which is written through some programming language. Like Siri, and Microsoft's Cortana, if you say anything, then it is a computer programming. So, if you have a natural language processing, then programming is also needed. No technology has been made that you guys speak something and directly understand the CPU and execute the instructions. Like you guys say that I want a website where it is like this, this, this, this, do this, click this, click this, click that, and automatically, 100% Cote will be generated. Today, no technology is available in this day and you guys have to do programming. Human intervention will always be required. That is why programming demand is increasing. Like new systems are being added in the market. It is not like programming is getting more expensive. AI machine learning is not yet reaching that far. That you guys should replace it, replace computer programmers. And the demand for C programming like language is increasing. According to that, we will see the C programming jobs increasing in the market. Guys, no one is going to take the C's concept of C's history, but the history of C's history is very interesting. I would like to tell you that C programming language was made by Dennis Richie in 1872 in AT&T Bell Labs. AT&T Bell Labs means American Telephone & Telegraph which is located in the USA. There, Dennis Richie established C programming. It is not like C programming is the first programming language. Like before C programming, there were many programming languages like B, BCPL. But the thing was that in C, people enjoyed it without any advertisement or promotion or any investment. C programming caught the speed and speed of the programers. That it became the first choice of programming language. If I talk about the languages that came before C, then there are Algon, BCPL, B, then in 1972, there was traditional C. Where Dennis Richie made the first version of C. And there people enjoyed it. It is like language. It means it was fun. So, when we used to do programming, people and the programming we do today have a lot of difference. Today we have IDE, we have faster computers. We can do programming very well. But in the olden days, when people used to do programming, they didn't have a good environment. And programming for them was not as easy as it is for us today. That is why Dennis Richie is considered a genius. Dennis Richie was expired in October 12, 2011. Indeed, he gave programming a new shape and he was worthy of being a genius. In C programming language, Dennis Richie added very good features. Like memory management, portability, mid-level, structured. And with that, recursions, pointers. He made it so easy that people started to adopt C without the old language. He was independent and he could compile it for any machine. And he would execute it in that machine. So, I wanted to tell you as much as I could about why C came into existence. Why did we have to make C? Why did Dennis Richie make C? Why did people need C? We have given many examples in the software industry where something that was not good could have been better than that. And all the people came there. I would like to give you an example. On the day of the launch of the social networking platform, all the people came to Facebook and left Facebook behind. Similarly, there are many examples like browser, Google Chrome, better. People left the Internet Explorer. We have many more examples. So, you should understand why people adopted C. Why don't people adopt a reliable, simple and easy to use language? And in the world of today, in which the tools and technology are in the industry there are so many companies on a daily basis. And a language that has been standing on its own for almost 50 years and is going to make its 50th birthday C language, that language will have to be good. That language was liked by people for 50 years. I would like to talk about a topic that people say that already C has replaced C++, C hash and Java Python. Now, C is useless. Now, C has been behind. So, I will clear this doubt for you. See, the C programming language is still as powerful as it used to be and its demand is increasing day by day. People will say that C++ is more than C. But I would like to tell you that to learn C++, you have to learn the concept of C. And C++ has been made through C. C has been made ahead. That is why its name has been given C++ and D has not been given. So, the C++ that Stoustrup made, has been made by giving C object oriented features. So, if you feel that you will learn C++ directly without learning C, then I will tell you. It is not like that. If you learn C first, then you will be able to become a good programmer. I am making these things from my experience. But I would like to tell you that the right way is to learn C and then go to C++. Because C has basics and it has some advanced stuff in C++ like object oriented programming and inheritance, polymorphism, classes, objects. So, it will be difficult to understand all these things. That is why I will tell you to complete a beginner C. And believe me, if you are studying C, then you are making your basic fundamentals strong. Once you understand the fundamentals of programming, then you can learn any language because the basic things should come to your mind. After that, you can learn anything and learn any way. Once you know that you are doing all these things, variables, functions, conditionals, all these things are almost the same in every language. That is why I will tell you to learn C programming language and make your basic fundamentals strong. And I will not point out again and again, but C programming language is extremely fast. If you want to squeeze your performance and write a better program which is fast and reliable, then you can use C programming language. That is why in the video game industry, where you need a good speed and the speed is very important, you can use C and C++. We will learn C programming very systematically. We will start with basic things. We will start from the bottom and then advance slowly. As you all know any language, first you learn its alphabet, then you learn to make words, then you learn to make sentences, then you learn to write paragraphs, then you see how to write the first one, which we call writing. Similarly, in programming, I will tell you which keywords, special symbols, alphabets are there, then we will talk about constants, keywords, variables, etc. Then we will see how we can write instructions, how we can tell the computer what and how to do it, and finally how we can make its program, that is, how we can compile it and make it executable. We will see how we can improve our programming logic, as I told you about writing, here it will be like this, to improve our logic, to execute things in time, to make the program reliable, to make the program easy to maintain, we will see many aspects in this course. We will see all these things step by step. Guys, I am planning to make more courses like data structures, algorithms, C++, and more things. So if you want to support this channel, then share this playlist below, I have given the playlist link in the description, so that I can bring more courses for you. So guys, I hope you will like this video. Don't miss the next video, because we will make our first program in it. And along with making our first program, we will understand how we can install it in our computer. And no, I will not tell you about any old idea, turbo-C, and all that useless things. I will prepare you for the next 5 to 10 years. I will prepare you for the next 5 to 10 years for the job market. I will teach you how to use modern tools, modern compilers, and techniques. This course will be taught with a modern approach. That is why I say that you can subscribe to the channel and press the bell icon. Because these courses go away from the educational channel. I don't want you to lose this channel and leave this course. So subscribe below and press the bell icon. So that you can become a proud member of this channel. So I hope that whatever I have told you in this video, you must have understood. What do you think about this video? Do let me know in the comments. And how excited are you? Do let me know in the comments. I am sitting and waiting for you. So that's all for now. Thank you so much guys for watching this video. And I will see you next time."
+}

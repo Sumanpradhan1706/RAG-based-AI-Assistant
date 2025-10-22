@@ -1,0 +1,1328 @@
+{
+  "chunks": [
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 0.0,
+      "end": 9.32,
+      "text": " C programs are made by many people but today whatever you see in this video will be able to understand it well and as a result, logic will be able to make it well."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 9.32,
+      "end": 10.84,
+      "text": " Don't miss this video."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 13.52,
+      "end": 24.52,
+      "text": " So guys, till now whatever we have learned about C programming was either history or installation or some other important things but from today we will start with the basic building blocks which are made by C program."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 24.52,
+      "end": 33.68,
+      "text": " So to make C program, first of all we wrote some texts. Now we will talk about what was in the text and spend some time here."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 33.68,
+      "end": 41.879999999999995,
+      "text": " I will take you back to my Visual Studio Code ID and take you there and I will tell you what was the meaning of the program we wrote."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 41.879999999999995,
+      "end": 46.84,
+      "text": " This will increase your understanding and you will understand why things are written in C program."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 46.84,
+      "end": 53.56,
+      "text": " So guys, a C program is made by combining constants, identifiers, string literals, keywords and symbols."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 53.56,
+      "end": 57.480000000000004,
+      "text": " We will see these things closely in this video. What is the meaning of this program and what is the meaning of C programming language."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 57.480000000000004,
+      "end": 64.56,
+      "text": " And when C programming language was created and evolved over the period of time, then why all these things were made like this."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 64.56,
+      "end": 71.32000000000001,
+      "text": " So guys, first of all I would like to talk about tokens. Now in C program is made by combining individual tokens."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 71.32000000000001,
+      "end": 78.80000000000001,
+      "text": " If I want to break printf hello world into tokens, then my program will look something like you are still seeing on your screen."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 78.8,
+      "end": 86.56,
+      "text": " But to make this representation better, we write this program like this. We write it in compact form and skip the new line."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 86.56,
+      "end": 91.44,
+      "text": " Every statement is made by a semi colon in termination C programming."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 91.44,
+      "end": 98.8,
+      "text": " Guys, you must have heard a lot of jokes that semi colon is forgotten, semi colon is the biggest thief, semi colon is the brain of a programmer."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 98.8,
+      "end": 103.2,
+      "text": " So guys, there is nothing called semi colon, it is used to terminate a statement."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 103.2,
+      "end": 113.76,
+      "text": " And if you have not put this semi colon, your program will give you an error, your compiler will tell you, I can't do anything, the compiler will stand in his hand and will tell you that I can't do anything."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 113.76,
+      "end": 122.4,
+      "text": " I can't compile this program, I can't make executable of this program, I can't make your code software because I don't know what it is written."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 122.4,
+      "end": 124.96000000000001,
+      "text": " Because of missing the semi colon."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 124.96000000000001,
+      "end": 127.92,
+      "text": " So guys, now I would like to take you to my Visual Studio Code ID."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 127.92,
+      "end": 134.8,
+      "text": " And I will show you what is the basic building blocks in the program that I wrote."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 134.8,
+      "end": 141.52,
+      "text": " So guys, I have come to my Visual Studio Code, I will request you all, now listen to what I am telling you."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 141.52,
+      "end": 144.08,
+      "text": " And as I am doing, you all watch it."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 144.08,
+      "end": 151.76,
+      "text": " One more thing I would like to ask you all, do you want a page PDF after this course as a summary?"
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 151.76,
+      "end": 156.24,
+      "text": " Or do you want me to start supplying you notes with these videos?"
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 156.32000000000002,
+      "end": 164.8,
+      "text": " Do let me know in the comment section and if you have said yes, we want these notes, yes we want these one page PDF after this course, then I will definitely bring them for you."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 164.8,
+      "end": 171.60000000000002,
+      "text": " So do let me know in the comment section if you want or not, everyone should definitely tell me."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 171.60000000000002,
+      "end": 174.56,
+      "text": " Let's move ahead as you can see I am in the Visual Studio Code."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 174.56,
+      "end": 177.84,
+      "text": " Here I will open my old program which I had opened."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 177.84,
+      "end": 182.96,
+      "text": " You can see here that on my screen, this basic structure I explained in the last video was C program."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 182.96,
+      "end": 190.72,
+      "text": " Now we will see its building blocks, the parts like int, curly brace, main, I had told you all."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 190.72,
+      "end": 195.28,
+      "text": " But I will tell you all the main words in this video."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 195.28,
+      "end": 198.32,
+      "text": " Guys, a C program is made with the help of tokens."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 198.32,
+      "end": 205.68,
+      "text": " When I talk about tokens, it means the parts that make C program are making C program, its basic building blocks."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 205.68,
+      "end": 210.64000000000001,
+      "text": " Like we wrote this program in our last video in which we print hello word on the screen."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 210.72,
+      "end": 213.67999999999998,
+      "text": " If I break it on individual tokens, it will look like this."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 213.67999999999998,
+      "end": 220.32,
+      "text": " I have separated printf, this symbol, I have separated this string literal, then after that I have separated the semicolon and this."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 220.32,
+      "end": 224.95999999999998,
+      "text": " I could do it like this, then also it will run as expected."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 224.95999999999998,
+      "end": 226.95999999999998,
+      "text": " As you can see, this hello word has been printed."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 226.95999999999998,
+      "end": 229.83999999999997,
+      "text": " So what I did is I broke it in individual tokens."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 229.83999999999997,
+      "end": 235.51999999999998,
+      "text": " So one token will be keyword or identifier, or constant, or string literal, or symbol."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 235.51999999999998,
+      "end": 236.56,
+      "text": " What is keyword?"
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 236.64000000000001,
+      "end": 238.56,
+      "text": " First of all, I will talk about keywords."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 238.56,
+      "end": 241.52,
+      "text": " Keywords are reserved words in C programming language."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 241.52,
+      "end": 247.52,
+      "text": " In C programming language, there are 32 general purpose keywords that you are seeing in your screen."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 247.52,
+      "end": 251.28,
+      "text": " So these keywords are in C programming language, they are general purpose keywords."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 251.28,
+      "end": 252.72,
+      "text": " And these are reserved words."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 252.72,
+      "end": 257.84000000000003,
+      "text": " You cannot make any identifier of these words, you cannot make any variable."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 257.84000000000003,
+      "end": 261.12,
+      "text": " These keywords are reserved in C programming language."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 261.12,
+      "end": 264.88,
+      "text": " Like you are looking at the return, this is keyword, you are looking at int, this is keyword."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 265.2,
+      "end": 271.2,
+      "text": " So these are reserved words that you cannot use in your programming language."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 271.2,
+      "end": 275.2,
+      "text": " In any identifier, in any constant or variable name."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 275.2,
+      "end": 277.2,
+      "text": " Let's talk about identifiers."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 277.2,
+      "end": 285.2,
+      "text": " Look, identifiers can be the name of any variable, any function, so that we can identify it."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 285.2,
+      "end": 287.2,
+      "text": " That's it, the theory of identifiers."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 287.2,
+      "end": 289.2,
+      "text": " I don't want to make a separate video for this, it's a simple thing."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 289.2,
+      "end": 293.2,
+      "text": " Look, any name that you want to give to any variable or function."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 293.52,
+      "end": 302.47999999999996,
+      "text": " Like your mom, Rohan, Shubham or Vikrant, whatever you call it, we will make our function, variable,"
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 302.47999999999996,
+      "end": 308.0,
+      "text": " and the entities like constants, we call them identifiers."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 308.0,
+      "end": 315.52,
+      "text": " Now in identifiers, capital A to capital Z, small a to small z, and with that, we can underscore and letter numbers."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 315.52,
+      "end": 319.52,
+      "text": " So what does C allow in the name of variables, we will see in the next video."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 319.52,
+      "end": 327.52,
+      "text": " Just keep in mind that C does not allow punctuation characters, either a dollar, percent, or identifiers."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 327.52,
+      "end": 331.52,
+      "text": " Along with that, I would like to tell you that C is a case-sensitive programming language."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 331.52,
+      "end": 339.52,
+      "text": " That is, if I name any variable, capital H, and then I name another variable, small h, then they will be different."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 339.52,
+      "end": 343.52,
+      "text": " After that, in our C programming language, we used a semicolon."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 343.52,
+      "end": 347.52,
+      "text": " Like I told you, first, the semicolon statement is used to terminate."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 347.52,
+      "end": 353.52,
+      "text": " We have already broken it in the initial tokens, but we make it compact and keep it readable."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 353.52,
+      "end": 361.52,
+      "text": " And we understand it manually in our mind what the token is and we compact it and put one line,"
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 361.52,
+      "end": 365.52,
+      "text": " that is, the line of the semicolon, in one single line."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 365.52,
+      "end": 369.52,
+      "text": " That is, I have removed all the white spaces and new lines that I have extracted."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 369.52,
+      "end": 372.52,
+      "text": " I did this so that my program becomes readable."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 372.52,
+      "end": 376.52,
+      "text": " Along with that, there are some constants in our program, like zero is the constant."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 376.52,
+      "end": 379.52,
+      "text": " In the coming time, I will also tell you how to make a constant."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 379.52,
+      "end": 382.52,
+      "text": " I will also tell you the difference between variable and constant."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 382.52,
+      "end": 386.52,
+      "text": " Along with that, the hello word was a string literal, that is, it was a string."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 386.52,
+      "end": 391.52,
+      "text": " And as soon as I did this, you see, it says care and after that it says 13 is its size."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 391.52,
+      "end": 394.52,
+      "text": " And with that, it shows me what value is."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 394.52,
+      "end": 396.52,
+      "text": " Now, how is this, we will understand it further."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 396.52,
+      "end": 399.52,
+      "text": " You guys understand one thing at a time."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 399.52,
+      "end": 401.52,
+      "text": " After that, our symbols come."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 401.52,
+      "end": 406.52,
+      "text": " Suppose if I write scanf here and after that, I write %d here."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 406.52,
+      "end": 409.52,
+      "text": " After that, I write %am%a."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 409.52,
+      "end": 412.52,
+      "text": " So, my symbol is m% and all these are symbols."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 412.52,
+      "end": 418.52,
+      "text": " So, our program is made by combining keyword, identifier, constant, string literal and symbol."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 418.52,
+      "end": 420.52,
+      "text": " You can also note it down somewhere."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 420.52,
+      "end": 425.52,
+      "text": " Keyword, identifier, constant, string literal and symbol."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 425.52,
+      "end": 430.52,
+      "text": " Along with that, if you want to note down, the general purpose of C, reserved keywords."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 430.52,
+      "end": 432.52,
+      "text": " I have just brought them on the screen for you."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 432.52,
+      "end": 434.52,
+      "text": " You can write it somewhere."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 434.52,
+      "end": 436.52,
+      "text": " But you don't have to remember all of them."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 436.52,
+      "end": 438.52,
+      "text": " You can refer them back."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 438.52,
+      "end": 442.52,
+      "text": " But you should know which keywords are in C programming."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 442.52,
+      "end": 444.52,
+      "text": " In my previous program, I made some temporary files."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 444.52,
+      "end": 448.52,
+      "text": " Which I made to show you how C programs work."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 448.52,
+      "end": 450.52,
+      "text": " I delete them here."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 450.52,
+      "end": 452.52,
+      "text": " Because I don't want to keep all of them here."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 452.52,
+      "end": 454.52,
+      "text": " Along with that, I delete the EXC."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 454.52,
+      "end": 456.52,
+      "text": " We will compile the program and run it."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 456.52,
+      "end": 460.52,
+      "text": " Another thing I want to tell you is that you can add any white space in your program."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 460.52,
+      "end": 462.52,
+      "text": " Suppose I add some white space here."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 462.52,
+      "end": 464.52,
+      "text": " Between my tokens,"
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 464.52,
+      "end": 466.52,
+      "text": " It won't matter."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 466.52,
+      "end": 468.52,
+      "text": " My program will be successfully compiled."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 468.52,
+      "end": 470.52,
+      "text": " Along with that, if I add 10 space here."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 470.52,
+      "end": 472.52,
+      "text": " Suppose I add 10 space here."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 472.52,
+      "end": 476.52,
+      "text": " And after that, if I run it, it will be successfully compiled and executed."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 476.52,
+      "end": 478.52,
+      "text": " As you can see here, I have executed it."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 478.52,
+      "end": 480.52,
+      "text": " I will tell you the feature of a Visual Studio Code."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 480.52,
+      "end": 484.52,
+      "text": " Suppose I want to open main.c and add.c side by side."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 484.52,
+      "end": 486.52,
+      "text": " You can use this button here."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 486.52,
+      "end": 488.52,
+      "text": " You can use this button here."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 488.52,
+      "end": 490.52,
+      "text": " You can use this button here."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 490.52,
+      "end": 492.52,
+      "text": " And your screen will be split in two."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 492.52,
+      "end": 494.52,
+      "text": " So, it will be independent."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 494.52,
+      "end": 496.52,
+      "text": " You can zoom out easily."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 496.52,
+      "end": 498.52,
+      "text": " And it won't be independent."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 498.52,
+      "end": 500.52,
+      "text": " You can debug both of these codes."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 500.52,
+      "end": 502.52,
+      "text": " You can see what was in which code I was using."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 502.52,
+      "end": 506.52,
+      "text": " You can open multiple editors here."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 506.52,
+      "end": 508.52,
+      "text": " In one of these windows."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 508.52,
+      "end": 510.52,
+      "text": " I will tell you that you should use an ID."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 510.52,
+      "end": 512.52,
+      "text": " It is a very useful thing."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 512.52,
+      "end": 514.52,
+      "text": " I will take my program in normal state."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 514.52,
+      "end": 516.52,
+      "text": " I want to mention one thing."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 516.52,
+      "end": 518.52,
+      "text": " There should be at least one white space character in between the tokens."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 518.52,
+      "end": 520.52,
+      "text": " If I write return 0 here."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 520.52,
+      "end": 522.52,
+      "text": " Then our program won't be able to understand."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 522.52,
+      "end": 524.52,
+      "text": " This is different from return and 0 is different."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 524.52,
+      "end": 526.52,
+      "text": " That's why it will throw an error."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 526.52,
+      "end": 528.52,
+      "text": " I will show you."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 528.52,
+      "end": 530.52,
+      "text": " It should be at least one white space character."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 530.52,
+      "end": 532.52,
+      "text": " Return and then the value return."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 532.52,
+      "end": 534.52,
+      "text": " So that our program can identify"
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 534.52,
+      "end": 536.52,
+      "text": " that this is return 0 1."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 536.52,
+      "end": 538.52,
+      "text": " Return and 0 return 0 are different."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 538.52,
+      "end": 540.52,
+      "text": " So, you will understand all these things"
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 540.52,
+      "end": 542.52,
+      "text": " while you are doing this."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 542.52,
+      "end": 544.52,
+      "text": " But I hope that the basic idea"
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 544.52,
+      "end": 546.52,
+      "text": " and the basic building blocks"
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 546.52,
+      "end": 548.52,
+      "text": " of the C program that you have understood."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 548.52,
+      "end": 550.52,
+      "text": " The upcoming videos are going to be very important."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 550.52,
+      "end": 552.52,
+      "text": " I will tell you about variables and constants."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 552.52,
+      "end": 554.52,
+      "text": " And I will tell you about data types."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 554.52,
+      "end": 556.52,
+      "text": " The main C will start from there."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 556.52,
+      "end": 558.52,
+      "text": " So, I will tell you about the upcoming videos."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 558.52,
+      "end": 560.52,
+      "text": " So, save this playlist"
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 560.52,
+      "end": 562.52,
+      "text": " and bookmark it somewhere."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 562.52,
+      "end": 564.52,
+      "text": " Or subscribe to the channel."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 564.52,
+      "end": 566.52,
+      "text": " Whatever you want to keep."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 566.52,
+      "end": 568.52,
+      "text": " Keep it carefully so that the course doesn't go around."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 568.52,
+      "end": 570.52,
+      "text": " I have given the link of the course in the description."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 570.52,
+      "end": 572.52,
+      "text": " You can take this course from there."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 572.52,
+      "end": 574.52,
+      "text": " So, guys, I hope that you understood"
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 574.52,
+      "end": 576.52,
+      "text": " all this video."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 576.52,
+      "end": 578.52,
+      "text": " If you are enjoying the course of the C tutorials,"
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 578.52,
+      "end": 580.52,
+      "text": " please tell me in the comment"
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 580.52,
+      "end": 582.52,
+      "text": " how you liked this video."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 582.52,
+      "end": 584.52,
+      "text": " Also, if I bring notes or one-page PDF"
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 584.52,
+      "end": 586.52,
+      "text": " for you in the future,"
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 586.52,
+      "end": 588.52,
+      "text": " then I will be able to give you that."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 588.52,
+      "end": 590.52,
+      "text": " If you have subscribed below and hit the bell icon."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 590.52,
+      "end": 592.52,
+      "text": " Because if you have not subscribed and hit the bell icon,"
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 592.52,
+      "end": 594.52,
+      "text": " then how will I be able to reach you?"
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 594.52,
+      "end": 596.52,
+      "text": " I will make notes and one-page PDF for you."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 596.52,
+      "end": 598.52,
+      "text": " I will definitely make a video and you will not be able to get the notification."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 598.52,
+      "end": 600.52,
+      "text": " That is why you have to click on the one-page PDF"
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 600.52,
+      "end": 602.52,
+      "text": " and you will miss the notes."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 602.52,
+      "end": 604.52,
+      "text": " So, it is important to press the bell icon"
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 604.52,
+      "end": 606.52,
+      "text": " by subscribing."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 606.52,
+      "end": 608.52,
+      "text": " Guys, if you have liked this video"
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 608.52,
+      "end": 610.52,
+      "text": " and you want me to make more quality videos like this,"
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 610.52,
+      "end": 612.52,
+      "text": " then press the share button below"
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 612.52,
+      "end": 614.52,
+      "text": " and send this video to your friends."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 614.52,
+      "end": 616.52,
+      "text": " Because this is the way"
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 616.52,
+      "end": 618.52,
+      "text": " that will make the videos reach to other people."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 618.52,
+      "end": 620.52,
+      "text": " And as a result, I will be able to"
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 620.52,
+      "end": 622.52,
+      "text": " bring more videos like this."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 622.52,
+      "end": 624.52,
+      "text": " That's all for now."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 624.52,
+      "end": 626.52,
+      "text": " I hope you have given this video a like."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 626.52,
+      "end": 628.52,
+      "text": " So, see you in the next video."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 628.52,
+      "end": 630.52,
+      "text": " In the upcoming videos, we will start"
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 630.52,
+      "end": 632.52,
+      "text": " basic studies. I will give you exercises, quizzes."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 632.52,
+      "end": 634.52,
+      "text": " I will interact with you."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 634.52,
+      "end": 636.52,
+      "text": " I will make this course"
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 636.52,
+      "end": 638.52,
+      "text": " very interesting. That is why I will meet you"
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 638.52,
+      "end": 640.52,
+      "text": " in the upcoming videos."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 640.52,
+      "end": 642.52,
+      "text": " Just give this video a thumbs up."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 642.52,
+      "end": 644.52,
+      "text": " So, thank you so much guys for watching this video."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 644.52,
+      "end": 646.52,
+      "text": " And I will see you next time."
+    },
+    {
+      "number": "5.mp4",
+      "title": "Basic Syntax Of A C Program C Tutorial In Hindi #5.mp4",
+      "start": 654.52,
+      "end": 656.52,
+      "text": " Bye."
+    }
+  ],
+  "text": " C programs are made by many people but today whatever you see in this video will be able to understand it well and as a result, logic will be able to make it well. Don't miss this video. So guys, till now whatever we have learned about C programming was either history or installation or some other important things but from today we will start with the basic building blocks which are made by C program. So to make C program, first of all we wrote some texts. Now we will talk about what was in the text and spend some time here. I will take you back to my Visual Studio Code ID and take you there and I will tell you what was the meaning of the program we wrote. This will increase your understanding and you will understand why things are written in C program. So guys, a C program is made by combining constants, identifiers, string literals, keywords and symbols. We will see these things closely in this video. What is the meaning of this program and what is the meaning of C programming language. And when C programming language was created and evolved over the period of time, then why all these things were made like this. So guys, first of all I would like to talk about tokens. Now in C program is made by combining individual tokens. If I want to break printf hello world into tokens, then my program will look something like you are still seeing on your screen. But to make this representation better, we write this program like this. We write it in compact form and skip the new line. Every statement is made by a semi colon in termination C programming. Guys, you must have heard a lot of jokes that semi colon is forgotten, semi colon is the biggest thief, semi colon is the brain of a programmer. So guys, there is nothing called semi colon, it is used to terminate a statement. And if you have not put this semi colon, your program will give you an error, your compiler will tell you, I can't do anything, the compiler will stand in his hand and will tell you that I can't do anything. I can't compile this program, I can't make executable of this program, I can't make your code software because I don't know what it is written. Because of missing the semi colon. So guys, now I would like to take you to my Visual Studio Code ID. And I will show you what is the basic building blocks in the program that I wrote. So guys, I have come to my Visual Studio Code, I will request you all, now listen to what I am telling you. And as I am doing, you all watch it. One more thing I would like to ask you all, do you want a page PDF after this course as a summary? Or do you want me to start supplying you notes with these videos? Do let me know in the comment section and if you have said yes, we want these notes, yes we want these one page PDF after this course, then I will definitely bring them for you. So do let me know in the comment section if you want or not, everyone should definitely tell me. Let's move ahead as you can see I am in the Visual Studio Code. Here I will open my old program which I had opened. You can see here that on my screen, this basic structure I explained in the last video was C program. Now we will see its building blocks, the parts like int, curly brace, main, I had told you all. But I will tell you all the main words in this video. Guys, a C program is made with the help of tokens. When I talk about tokens, it means the parts that make C program are making C program, its basic building blocks. Like we wrote this program in our last video in which we print hello word on the screen. If I break it on individual tokens, it will look like this. I have separated printf, this symbol, I have separated this string literal, then after that I have separated the semicolon and this. I could do it like this, then also it will run as expected. As you can see, this hello word has been printed. So what I did is I broke it in individual tokens. So one token will be keyword or identifier, or constant, or string literal, or symbol. What is keyword? First of all, I will talk about keywords. Keywords are reserved words in C programming language. In C programming language, there are 32 general purpose keywords that you are seeing in your screen. So these keywords are in C programming language, they are general purpose keywords. And these are reserved words. You cannot make any identifier of these words, you cannot make any variable. These keywords are reserved in C programming language. Like you are looking at the return, this is keyword, you are looking at int, this is keyword. So these are reserved words that you cannot use in your programming language. In any identifier, in any constant or variable name. Let's talk about identifiers. Look, identifiers can be the name of any variable, any function, so that we can identify it. That's it, the theory of identifiers. I don't want to make a separate video for this, it's a simple thing. Look, any name that you want to give to any variable or function. Like your mom, Rohan, Shubham or Vikrant, whatever you call it, we will make our function, variable, and the entities like constants, we call them identifiers. Now in identifiers, capital A to capital Z, small a to small z, and with that, we can underscore and letter numbers. So what does C allow in the name of variables, we will see in the next video. Just keep in mind that C does not allow punctuation characters, either a dollar, percent, or identifiers. Along with that, I would like to tell you that C is a case-sensitive programming language. That is, if I name any variable, capital H, and then I name another variable, small h, then they will be different. After that, in our C programming language, we used a semicolon. Like I told you, first, the semicolon statement is used to terminate. We have already broken it in the initial tokens, but we make it compact and keep it readable. And we understand it manually in our mind what the token is and we compact it and put one line, that is, the line of the semicolon, in one single line. That is, I have removed all the white spaces and new lines that I have extracted. I did this so that my program becomes readable. Along with that, there are some constants in our program, like zero is the constant. In the coming time, I will also tell you how to make a constant. I will also tell you the difference between variable and constant. Along with that, the hello word was a string literal, that is, it was a string. And as soon as I did this, you see, it says care and after that it says 13 is its size. And with that, it shows me what value is. Now, how is this, we will understand it further. You guys understand one thing at a time. After that, our symbols come. Suppose if I write scanf here and after that, I write %d here. After that, I write %am%a. So, my symbol is m% and all these are symbols. So, our program is made by combining keyword, identifier, constant, string literal and symbol. You can also note it down somewhere. Keyword, identifier, constant, string literal and symbol. Along with that, if you want to note down, the general purpose of C, reserved keywords. I have just brought them on the screen for you. You can write it somewhere. But you don't have to remember all of them. You can refer them back. But you should know which keywords are in C programming. In my previous program, I made some temporary files. Which I made to show you how C programs work. I delete them here. Because I don't want to keep all of them here. Along with that, I delete the EXC. We will compile the program and run it. Another thing I want to tell you is that you can add any white space in your program. Suppose I add some white space here. Between my tokens, It won't matter. My program will be successfully compiled. Along with that, if I add 10 space here. Suppose I add 10 space here. And after that, if I run it, it will be successfully compiled and executed. As you can see here, I have executed it. I will tell you the feature of a Visual Studio Code. Suppose I want to open main.c and add.c side by side. You can use this button here. You can use this button here. You can use this button here. And your screen will be split in two. So, it will be independent. You can zoom out easily. And it won't be independent. You can debug both of these codes. You can see what was in which code I was using. You can open multiple editors here. In one of these windows. I will tell you that you should use an ID. It is a very useful thing. I will take my program in normal state. I want to mention one thing. There should be at least one white space character in between the tokens. If I write return 0 here. Then our program won't be able to understand. This is different from return and 0 is different. That's why it will throw an error. I will show you. It should be at least one white space character. Return and then the value return. So that our program can identify that this is return 0 1. Return and 0 return 0 are different. So, you will understand all these things while you are doing this. But I hope that the basic idea and the basic building blocks of the C program that you have understood. The upcoming videos are going to be very important. I will tell you about variables and constants. And I will tell you about data types. The main C will start from there. So, I will tell you about the upcoming videos. So, save this playlist and bookmark it somewhere. Or subscribe to the channel. Whatever you want to keep. Keep it carefully so that the course doesn't go around. I have given the link of the course in the description. You can take this course from there. So, guys, I hope that you understood all this video. If you are enjoying the course of the C tutorials, please tell me in the comment how you liked this video. Also, if I bring notes or one-page PDF for you in the future, then I will be able to give you that. If you have subscribed below and hit the bell icon. Because if you have not subscribed and hit the bell icon, then how will I be able to reach you? I will make notes and one-page PDF for you. I will definitely make a video and you will not be able to get the notification. That is why you have to click on the one-page PDF and you will miss the notes. So, it is important to press the bell icon by subscribing. Guys, if you have liked this video and you want me to make more quality videos like this, then press the share button below and send this video to your friends. Because this is the way that will make the videos reach to other people. And as a result, I will be able to bring more videos like this. That's all for now. I hope you have given this video a like. So, see you in the next video. In the upcoming videos, we will start basic studies. I will give you exercises, quizzes. I will interact with you. I will make this course very interesting. That is why I will meet you in the upcoming videos. Just give this video a thumbs up. So, thank you so much guys for watching this video. And I will see you next time. Bye."
+}

@@ -1,0 +1,1090 @@
+{
+  "chunks": [
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 0.0,
+      "end": 3.56,
+      "text": " So guys, we have learned a lot of things and we have learnt a lot of concepts."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 3.56,
+      "end": 6.2,
+      "text": " In today's video, I will give you guys an exercise."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 6.2,
+      "end": 8.76,
+      "text": " Accept the challenge, see the video completely,"
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 8.76,
+      "end": 13.0,
+      "text": " understand the question and then write a challenge accepted in the comment section."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 13.0,
+      "end": 15.16,
+      "text": " If you are going to complete the exercise."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 17.64,
+      "end": 20.72,
+      "text": " So guys, here we will start with a simple exercise."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 20.72,
+      "end": 23.080000000000002,
+      "text": " In which we will have some basic functions and operators."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 23.080000000000002,
+      "end": 24.96,
+      "text": " Which we have studied till now."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 24.96,
+      "end": 29.0,
+      "text": " So, whatever knowledge you have got in these simple videos,"
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 29.0,
+      "end": 32.2,
+      "text": " you will understand very well how to use it."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 32.2,
+      "end": 34.6,
+      "text": " So, don't miss this exercise at all."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 34.6,
+      "end": 37.480000000000004,
+      "text": " I will take you guys to my Visual Studio Code,"
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 37.480000000000004,
+      "end": 41.92,
+      "text": " to my computer, where I will come and explain what you have to do in this exercise."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 41.92,
+      "end": 45.36,
+      "text": " So, let's go to the computer and I will explain what is the question."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 45.36,
+      "end": 48.56,
+      "text": " So guys, before we move on, I will tell you a problem statement."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 48.56,
+      "end": 51.400000000000006,
+      "text": " I will tell you that after opening the channel,"
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 51.400000000000006,
+      "end": 54.72,
+      "text": " access the C programming playlists."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 54.72,
+      "end": 58.0,
+      "text": " Because you have to keep the playlists of this course in mind."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 58.0,
+      "end": 59.6,
+      "text": " Then you will be able to learn properly."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 59.6,
+      "end": 62.72,
+      "text": " As the videos will be added, you will continue the course."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 62.72,
+      "end": 66.0,
+      "text": " So, you click on the star here and bookmark."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 66.0,
+      "end": 69.84,
+      "text": " Bookmark comes here and you can click here and access it anytime."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 69.84,
+      "end": 75.08,
+      "text": " Now I am here in my Visual Studio Code, I will show you what you have to do here."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 75.08,
+      "end": 76.64,
+      "text": " This is our tutorial number 8."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 76.64,
+      "end": 78.2,
+      "text": " So, I will write here simply,"
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 78.2,
+      "end": 81.96000000000001,
+      "text": " Tutorial 8 and I will write colon here."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 81.96000000000001,
+      "end": 84.16,
+      "text": " Or I will write dash here."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 84.16,
+      "end": 86.0,
+      "text": " Exercise1.C"
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 86.0,
+      "end": 87.6,
+      "text": " So, this is our C program."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 87.6,
+      "end": 89.36,
+      "text": " I will write here simply main."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 89.36,
+      "end": 90.96,
+      "text": " And I will prepare it as main."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 90.96,
+      "end": 96.2,
+      "text": " These int, argc and argv, I would like to tell you that there are command line arguments."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 96.2,
+      "end": 98.68,
+      "text": " And you don't have to pay much attention to them."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 98.68,
+      "end": 100.44,
+      "text": " You can remove it for now."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 100.44,
+      "end": 102.56,
+      "text": " We will see what they used later."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 102.56,
+      "end": 106.92,
+      "text": " One more thing here is hash include stdio.h."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 106.92,
+      "end": 107.88,
+      "text": " Do this."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 108.56,
+      "end": 111.16,
+      "text": " stdio.h."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 111.16,
+      "end": 112.03999999999999,
+      "text": " Okay."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 112.03999999999999,
+      "end": 114.4,
+      "text": " After doing this, what you have to write here is,"
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 114.4,
+      "end": 116.04,
+      "text": " You have to solve the problem."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 116.04,
+      "end": 118.68,
+      "text": " I have to tell you what is the statement of the problem."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 118.68,
+      "end": 123.08000000000001,
+      "text": " So, I will simply put star here and after that, I will put star here and slash here."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 123.08000000000001,
+      "end": 124.80000000000001,
+      "text": " This is the multi-line comments."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 124.80000000000001,
+      "end": 126.56,
+      "text": " I will tell you in the next video about comments."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 126.56,
+      "end": 128.76,
+      "text": " You can understand the problem statements."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 128.76,
+      "end": 130.28,
+      "text": " Comments are not a big thing."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 130.28,
+      "end": 131.6,
+      "text": " What you have to do here is,"
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 131.6,
+      "end": 139.72,
+      "text": " Print a multiplication table of a number entered by the user in..."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 140.36,
+      "end": 142.84,
+      "text": " I will close the word wrap here."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 142.88,
+      "end": 146.76,
+      "text": " I would like to tell you that there is a command called toggle word wrap."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 146.76,
+      "end": 148.8,
+      "text": " If you open the command first,"
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 148.8,
+      "end": 150.4,
+      "text": " And you will do toggle word wrap here,"
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 150.4,
+      "end": 153.12,
+      "text": " The one you will write here won't overflow."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 153.12,
+      "end": 154.64000000000001,
+      "text": " It will come down from the new line."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 154.64000000000001,
+      "end": 155.64000000000001,
+      "text": " As you can see here."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 155.64000000000001,
+      "end": 157.44,
+      "text": " So, you can see it easily."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 157.44,
+      "end": 160.08,
+      "text": " I will close it so that you can see it easily."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 160.08,
+      "end": 167.2,
+      "text": " So, print multiplication table of a number entered by the user in pretty form."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 167.2,
+      "end": 168.16,
+      "text": " Example."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 168.16,
+      "end": 169.32,
+      "text": " I will give you an example."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 169.32,
+      "end": 172.44,
+      "text": " I will give you an example of the input and output."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 172.52,
+      "end": 173.96,
+      "text": " Example, I will write here."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 173.96,
+      "end": 174.68,
+      "text": " I will write here."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 174.68,
+      "end": 181.16,
+      "text": " Enter the number you want multiplication table of."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 181.16,
+      "end": 181.76,
+      "text": " Okay."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 181.76,
+      "end": 184.0,
+      "text": " After that, you have to print the number 6."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 184.0,
+      "end": 186.84,
+      "text": " So, you have to print something like this."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 186.84,
+      "end": 189.64,
+      "text": " And the output here is your input."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 189.64,
+      "end": 191.16,
+      "text": " I will write here."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 191.16,
+      "end": 194.52,
+      "text": " And the output here will come here like this."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 194.52,
+      "end": 200.16,
+      "text": " One thing I would like to tell you here is that you will get this code in the description."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 200.16,
+      "end": 202.32,
+      "text": " So, you will get the problem statement below."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 202.35999999999999,
+      "end": 205.84,
+      "text": " And I will close the terminal here because I am not running it."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 205.84,
+      "end": 208.92,
+      "text": " So, what do you want in the input and what do you want in the output?"
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 208.92,
+      "end": 209.76,
+      "text": " I have told you."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 209.76,
+      "end": 210.72,
+      "text": " So, it is in the input."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 210.72,
+      "end": 213.64,
+      "text": " Enter the number you want multiplication table of."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 213.64,
+      "end": 214.64,
+      "text": " After that, 6 came."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 214.64,
+      "end": 216.48,
+      "text": " And in the output, you will get something like this."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 216.48,
+      "end": 217.56,
+      "text": " Table of 6."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 217.56,
+      "end": 219.68,
+      "text": " And here you have to write something like this."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 219.68,
+      "end": 222.79999999999998,
+      "text": " And with 0, you have to write 6, 2, 6, 3."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 222.79999999999998,
+      "end": 225.07999999999998,
+      "text": " And you have to write it up to 10."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 225.07999999999998,
+      "end": 227.56,
+      "text": " So, you have to write it up to 10."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 227.56,
+      "end": 229.04,
+      "text": " 6, 10, 60."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 229.04,
+      "end": 230.6,
+      "text": " So, I am putting this dot dot."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 230.6,
+      "end": 231.84,
+      "text": " But you don't have to put dot dot."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 231.88,
+      "end": 233.56,
+      "text": " You have to print the actual table."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 233.56,
+      "end": 235.08,
+      "text": " You have understood what I want to say."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 235.08,
+      "end": 239.56,
+      "text": " So, if you want to print any table, enter the number and you will see its table."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 239.56,
+      "end": 242.28,
+      "text": " Write down the challenge accepted in the comment."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 242.28,
+      "end": 245.96,
+      "text": " And also, you have to access the course playlist here."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 245.96,
+      "end": 249.0,
+      "text": " And bookmark it and keep it in mind so that you don't lose this channel."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 249.0,
+      "end": 251.32,
+      "text": " And you can also subscribe to the channel."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 251.32,
+      "end": 253.28,
+      "text": " So, the channel won't lose and this course won't lose."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 253.28,
+      "end": 255.92000000000002,
+      "text": " And you guys can easily solve this question."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 255.92000000000002,
+      "end": 258.2,
+      "text": " Write the challenge accepted and solve the question."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 258.2,
+      "end": 262.56,
+      "text": " So, if you guys solve this and write the challenge accepted, I will give a heart to everyone in the comment."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 262.56,
+      "end": 264.71999999999997,
+      "text": " Then there will be a solution video for this video."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 264.71999999999997,
+      "end": 266.52,
+      "text": " In which everyone will be given a shout out."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 266.52,
+      "end": 267.71999999999997,
+      "text": " All the people who have solved it."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 267.71999999999997,
+      "end": 269.28,
+      "text": " I will give a shout out to each and every one of them."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 269.28,
+      "end": 270.88,
+      "text": " So, you have to solve this problem."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 270.88,
+      "end": 271.8,
+      "text": " So, I will do it."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 271.8,
+      "end": 273.12,
+      "text": " I will put it on my website."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 273.12,
+      "end": 275.44,
+      "text": " You will get the link in the description."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 275.44,
+      "end": 277.71999999999997,
+      "text": " And you guys access the problem statement."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 277.71999999999997,
+      "end": 281.0,
+      "text": " So, guys, I hope you guys will answer this exercise."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 281.0,
+      "end": 283.52,
+      "text": " You will write the challenge accepted in the comment."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 283.52,
+      "end": 286.28,
+      "text": " I want you to fill the comment section with challenge accepted."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 286.28,
+      "end": 287.08,
+      "text": " Challenge accepted."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 287.08,
+      "end": 288.24,
+      "text": " Fill it with challenge accepted."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 288.24,
+      "end": 289.84,
+      "text": " Let's post our comment right now."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 289.84,
+      "end": 290.71999999999997,
+      "text": " Challenge accepted."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 290.71999999999997,
+      "end": 292.28,
+      "text": " You will also have to get it."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 292.28,
+      "end": 294.44,
+      "text": " And I will also see that higher people are learning."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 294.44,
+      "end": 296.52,
+      "text": " People are interested in solving the questions."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 296.52,
+      "end": 298.4,
+      "text": " So, right now, you put the challenge accepted."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 298.4,
+      "end": 299.91999999999996,
+      "text": " Because this question is not that difficult."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 299.91999999999996,
+      "end": 301.36,
+      "text": " I know you will do it."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 301.36,
+      "end": 302.76,
+      "text": " Comment below."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 302.76,
+      "end": 304.79999999999995,
+      "text": " Like the challenge accepted and this video."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 304.79999999999995,
+      "end": 306.4,
+      "text": " Like the like button below."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 306.4,
+      "end": 307.56,
+      "text": " Make it blue."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 307.56,
+      "end": 308.28,
+      "text": " Like it."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 308.28,
+      "end": 310.08,
+      "text": " And I will be very happy."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 310.08,
+      "end": 313.47999999999996,
+      "text": " With that, I want you to do this course in some programming group."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 313.47999999999996,
+      "end": 315.68,
+      "text": " And with that, if you do your job."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 315.68,
+      "end": 317.72,
+      "text": " If you have any group, then share it there."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 317.72,
+      "end": 318.88,
+      "text": " There is a share button below."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 318.88,
+      "end": 321.64,
+      "text": " You can click on it and share these videos."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 321.64,
+      "end": 324.0,
+      "text": " For yourself, you can see the playlist link in the description."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 324.0,
+      "end": 326.36,
+      "text": " Click on it and see the playlist right now."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 326.36,
+      "end": 329.44,
+      "text": " At least, if you see the playlist, you will have a whole overview."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 329.44,
+      "end": 331.24,
+      "text": " That, yes, I have seen these videos."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 331.24,
+      "end": 332.76,
+      "text": " And these videos are still there."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 332.76,
+      "end": 333.48,
+      "text": " What will happen with that?"
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 333.48,
+      "end": 335.2,
+      "text": " That you can do your planning."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 335.2,
+      "end": 336.52,
+      "text": " And it will be good for you guys."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 336.52,
+      "end": 337.76,
+      "text": " With the planning perspective."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 337.76,
+      "end": 339.96000000000004,
+      "text": " That when and how you will do it."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 339.96000000000004,
+      "end": 341.84000000000003,
+      "text": " So, grab the playlist from below."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 341.84000000000003,
+      "end": 344.28000000000003,
+      "text": " You can easily do bookmark and save it."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 344.28,
+      "end": 347.44,
+      "text": " Or subscribe to this channel so that your playlist doesn't get lost."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 347.44,
+      "end": 349.23999999999995,
+      "text": " So, I hope you guys liked the video."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 349.23999999999995,
+      "end": 350.59999999999997,
+      "text": " Do like it."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 350.59999999999997,
+      "end": 352.52,
+      "text": " Thank you so much guys for watching this video."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 352.52,
+      "end": 354.76,
+      "text": " I will meet you guys in its solution video."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 354.76,
+      "end": 357.4,
+      "text": " And let's see who solves it first."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 357.4,
+      "end": 359.67999999999995,
+      "text": " And who solves it right."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 359.67999999999995,
+      "end": 361.35999999999996,
+      "text": " How many people accept the challenge below."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 361.35999999999996,
+      "end": 363.55999999999995,
+      "text": " So, after this video, I want to see a lot of things."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 363.55999999999995,
+      "end": 365.55999999999995,
+      "text": " So, thank you so much guys for watching this video."
+    },
+    {
+      "number": "8.mp4",
+      "title": "C Programming Exercise 1 - Multiplication Tables C Tutorial In Hindi #8.mp4",
+      "start": 365.55999999999995,
+      "end": 367.67999999999995,
+      "text": " And I will see you next time."
+    }
+  ],
+  "text": " So guys, we have learned a lot of things and we have learnt a lot of concepts. In today's video, I will give you guys an exercise. Accept the challenge, see the video completely, understand the question and then write a challenge accepted in the comment section. If you are going to complete the exercise. So guys, here we will start with a simple exercise. In which we will have some basic functions and operators. Which we have studied till now. So, whatever knowledge you have got in these simple videos, you will understand very well how to use it. So, don't miss this exercise at all. I will take you guys to my Visual Studio Code, to my computer, where I will come and explain what you have to do in this exercise. So, let's go to the computer and I will explain what is the question. So guys, before we move on, I will tell you a problem statement. I will tell you that after opening the channel, access the C programming playlists. Because you have to keep the playlists of this course in mind. Then you will be able to learn properly. As the videos will be added, you will continue the course. So, you click on the star here and bookmark. Bookmark comes here and you can click here and access it anytime. Now I am here in my Visual Studio Code, I will show you what you have to do here. This is our tutorial number 8. So, I will write here simply, Tutorial 8 and I will write colon here. Or I will write dash here. Exercise1.C So, this is our C program. I will write here simply main. And I will prepare it as main. These int, argc and argv, I would like to tell you that there are command line arguments. And you don't have to pay much attention to them. You can remove it for now. We will see what they used later. One more thing here is hash include stdio.h. Do this. stdio.h. Okay. After doing this, what you have to write here is, You have to solve the problem. I have to tell you what is the statement of the problem. So, I will simply put star here and after that, I will put star here and slash here. This is the multi-line comments. I will tell you in the next video about comments. You can understand the problem statements. Comments are not a big thing. What you have to do here is, Print a multiplication table of a number entered by the user in... I will close the word wrap here. I would like to tell you that there is a command called toggle word wrap. If you open the command first, And you will do toggle word wrap here, The one you will write here won't overflow. It will come down from the new line. As you can see here. So, you can see it easily. I will close it so that you can see it easily. So, print multiplication table of a number entered by the user in pretty form. Example. I will give you an example. I will give you an example of the input and output. Example, I will write here. I will write here. Enter the number you want multiplication table of. Okay. After that, you have to print the number 6. So, you have to print something like this. And the output here is your input. I will write here. And the output here will come here like this. One thing I would like to tell you here is that you will get this code in the description. So, you will get the problem statement below. And I will close the terminal here because I am not running it. So, what do you want in the input and what do you want in the output? I have told you. So, it is in the input. Enter the number you want multiplication table of. After that, 6 came. And in the output, you will get something like this. Table of 6. And here you have to write something like this. And with 0, you have to write 6, 2, 6, 3. And you have to write it up to 10. So, you have to write it up to 10. 6, 10, 60. So, I am putting this dot dot. But you don't have to put dot dot. You have to print the actual table. You have understood what I want to say. So, if you want to print any table, enter the number and you will see its table. Write down the challenge accepted in the comment. And also, you have to access the course playlist here. And bookmark it and keep it in mind so that you don't lose this channel. And you can also subscribe to the channel. So, the channel won't lose and this course won't lose. And you guys can easily solve this question. Write the challenge accepted and solve the question. So, if you guys solve this and write the challenge accepted, I will give a heart to everyone in the comment. Then there will be a solution video for this video. In which everyone will be given a shout out. All the people who have solved it. I will give a shout out to each and every one of them. So, you have to solve this problem. So, I will do it. I will put it on my website. You will get the link in the description. And you guys access the problem statement. So, guys, I hope you guys will answer this exercise. You will write the challenge accepted in the comment. I want you to fill the comment section with challenge accepted. Challenge accepted. Fill it with challenge accepted. Let's post our comment right now. Challenge accepted. You will also have to get it. And I will also see that higher people are learning. People are interested in solving the questions. So, right now, you put the challenge accepted. Because this question is not that difficult. I know you will do it. Comment below. Like the challenge accepted and this video. Like the like button below. Make it blue. Like it. And I will be very happy. With that, I want you to do this course in some programming group. And with that, if you do your job. If you have any group, then share it there. There is a share button below. You can click on it and share these videos. For yourself, you can see the playlist link in the description. Click on it and see the playlist right now. At least, if you see the playlist, you will have a whole overview. That, yes, I have seen these videos. And these videos are still there. What will happen with that? That you can do your planning. And it will be good for you guys. With the planning perspective. That when and how you will do it. So, grab the playlist from below. You can easily do bookmark and save it. Or subscribe to this channel so that your playlist doesn't get lost. So, I hope you guys liked the video. Do like it. Thank you so much guys for watching this video. I will meet you guys in its solution video. And let's see who solves it first. And who solves it right. How many people accept the challenge below. So, after this video, I want to see a lot of things. So, thank you so much guys for watching this video. And I will see you next time."
+}
