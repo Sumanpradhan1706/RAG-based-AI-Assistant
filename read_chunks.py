@@ -1,0 +1,19 @@
+
+import requests
+
+def create_embedding(text):
+    response = requests.post(
+        "http://localhost:11434/api/embeddings",
+        json={
+            "model": "bge-m3",
+            "prompt": text
+        }
+    )
+
+    embedding = response.json()['embedding']
+    return embedding
+
+
+
+a=create_embedding("Hello, world!")
+print(a)
