@@ -32,3 +32,18 @@ max_indx = similarities.argsort()[::-1][0:top_results]
 print(max_indx)
 new_df = df.loc[max_indx] 
 print(new_df[["title", "number", "text"]])
+
+prompt = f'''Here are video subtitled chunks containing video title, video number, start time in second, end time in seconds, the text at that time 
+
+{new_df[["title", "number", "text"]].to_json()}
+----------------------------------------
+
+
+"{incoming_query}"
+User asked this question related to the video chunks, you have to answer where and how much content is taught where (in which video and at what timestamp) and guide the user to go to that particular video
+'''
+
+with open("prompt.txt", "w") as f:
+    f.write(prompt)
+# for index, item in df.iterrows():
+#     print(index,  item["title"] , item["number"], item["text"], item["start"], item["end"])
